@@ -41,5 +41,5 @@ while True:
 
     offset += chunk_size
 
-with open('public/food.json', 'w', encoding='utf-8') as f:
+with open('docs/food.json', 'w', encoding='utf-8') as f:
     json.dump(businesses, f, indent=2)
