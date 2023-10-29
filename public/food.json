@@ -175,16 +175,6 @@
     ]
   },
   {
-    "name": "Obstacle Brewing and Grill",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oblQQZhGXCpMXglxGV9AXA/o.jpg",
-    "rating": 4.0,
-    "address": "4613 S Mason St, Ste D1, Fort Collins, CO 80525",
-    "categories": [
-      "Brewpubs",
-      "American (Traditional)"
-    ]
-  },
-  {
     "name": "Music City Hot Chicken",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/F7Wcuv9Oh9m21ayMBFmrZA/o.jpg",
     "rating": 4.0,
@@ -193,6 +183,16 @@
       "Southern",
       "American (Traditional)",
       "Beer Bar"
+    ]
+  },
+  {
+    "name": "Obstacle Brewing and Grill",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oblQQZhGXCpMXglxGV9AXA/o.jpg",
+    "rating": 4.0,
+    "address": "4613 S Mason St, Ste D1, Fort Collins, CO 80525",
+    "categories": [
+      "Brewpubs",
+      "American (Traditional)"
     ]
   },
   {
@@ -365,21 +365,23 @@
     ]
   },
   {
+    "name": "Jax Fish House Fort Collins",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pPvwwcwnkJsQSFa4kKqt1w/o.jpg",
+    "rating": 4.5,
+    "address": "123 N College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Seafood",
+      "American (New)",
+      "Live/Raw Food"
+    ]
+  },
+  {
     "name": "Beijing Noodle",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VkAQ2dhRQmFnYoqrZmhxEQ/o.jpg",
     "rating": 4.5,
     "address": "1005 W Stuart St, Fort Collins, CO 80521",
     "categories": [
       "Chinese"
-    ]
-  },
-  {
-    "name": "Papa's Table",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5S8yHb4ZiMjRKE2HZX6HEw/o.jpg",
-    "rating": 4.5,
-    "address": "3728 Cleveland Ave, Wellington, CO 80549",
-    "categories": [
-      "Italian"
     ]
   },
   {
@@ -394,24 +396,12 @@
     ]
   },
   {
-    "name": "Jax Fish House Fort Collins",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pPvwwcwnkJsQSFa4kKqt1w/o.jpg",
+    "name": "Papa's Table",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5S8yHb4ZiMjRKE2HZX6HEw/o.jpg",
     "rating": 4.5,
-    "address": "123 N College Ave, Fort Collins, CO 80524",
+    "address": "3728 Cleveland Ave, Wellington, CO 80549",
     "categories": [
-      "Seafood",
-      "American (New)",
-      "Live/Raw Food"
-    ]
-  },
-  {
-    "name": "Uno Mas Taqueria",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xcDS0F9PmNmmBhyXckSlJQ/o.jpg",
-    "rating": 4.5,
-    "address": "120 W Olive, Fort Collins, CO 80524",
-    "categories": [
-      "Mexican",
-      "Venues & Event Spaces"
+      "Italian"
     ]
   },
   {
@@ -422,6 +412,16 @@
     "categories": [
       "Breweries",
       "American (New)"
+    ]
+  },
+  {
+    "name": "Uno Mas Taqueria",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xcDS0F9PmNmmBhyXckSlJQ/o.jpg",
+    "rating": 4.5,
+    "address": "120 W Olive, Fort Collins, CO 80524",
+    "categories": [
+      "Mexican",
+      "Venues & Event Spaces"
     ]
   },
   {
@@ -551,17 +551,6 @@
     ]
   },
   {
-    "name": "The Original Pancake House",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F0082K71qqvlU4_FL-5KAQ/o.jpg",
-    "rating": 4.0,
-    "address": "2909 E Harmony Rd, Ste 140, Fort Collins, CO 80528",
-    "categories": [
-      "Waffles",
-      "Creperies",
-      "Pancakes"
-    ]
-  },
-  {
     "name": "The Moot House",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KTmicGqkrz7cUVpNcwg71Q/o.jpg",
     "rating": 3.5,
@@ -578,6 +567,17 @@
     "categories": [
       "American (New)",
       "Barbeque"
+    ]
+  },
+  {
+    "name": "The Original Pancake House",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F0082K71qqvlU4_FL-5KAQ/o.jpg",
+    "rating": 4.0,
+    "address": "2909 E Harmony Rd, Ste 140, Fort Collins, CO 80528",
+    "categories": [
+      "Waffles",
+      "Creperies",
+      "Pancakes"
     ]
   },
   {
@@ -632,17 +632,6 @@
     ]
   },
   {
-    "name": "Mister Munchies",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MQ1oimv83OrEG2_hs5T-EA/o.jpg",
-    "rating": 5.0,
-    "address": "1173 E Mulberry St, Fort Collins, CO 80524",
-    "categories": [
-      "Food Trucks",
-      "Soul Food",
-      "Southern"
-    ]
-  },
-  {
     "name": "White Tree",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/r5mM8dOfTrenA049YJf2GA/o.jpg",
     "rating": 4.5,
@@ -651,6 +640,17 @@
       "Japanese",
       "Sushi Bars",
       "Korean"
+    ]
+  },
+  {
+    "name": "Mister Munchies",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MQ1oimv83OrEG2_hs5T-EA/o.jpg",
+    "rating": 5.0,
+    "address": "1173 E Mulberry St, Fort Collins, CO 80524",
+    "categories": [
+      "Food Trucks",
+      "Soul Food",
+      "Southern"
     ]
   },
   {
@@ -696,6 +696,15 @@
     ]
   },
   {
+    "name": "Bai Tong",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vma4jachCXO5_3obdkftLw/o.jpg",
+    "rating": 4.5,
+    "address": "1120 N Lincoln Ave, Loveland, CO 80537",
+    "categories": [
+      "Thai"
+    ]
+  },
+  {
     "name": "Nick's Italian",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ff9satyzTgrT0tcF7JsM2A/o.jpg",
     "rating": 4.0,
@@ -717,12 +726,13 @@
     ]
   },
   {
-    "name": "Bai Tong",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vma4jachCXO5_3obdkftLw/o.jpg",
-    "rating": 4.5,
-    "address": "1120 N Lincoln Ave, Loveland, CO 80537",
+    "name": "Austin's American Grill",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Go5f6NY85rPYFOYiiJJ0Aw/o.jpg",
+    "rating": 4.0,
+    "address": "2815 E Harmony Rd, Fort Collins, CO 80528",
     "categories": [
-      "Thai"
+      "American (New)",
+      "American (Traditional)"
     ]
   },
   {
@@ -734,16 +744,6 @@
       "Chinese",
       "Noodles",
       "Vegetarian"
-    ]
-  },
-  {
-    "name": "Austin's American Grill",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Go5f6NY85rPYFOYiiJJ0Aw/o.jpg",
-    "rating": 4.0,
-    "address": "2815 E Harmony Rd, Fort Collins, CO 80528",
-    "categories": [
-      "American (New)",
-      "American (Traditional)"
     ]
   },
   {
@@ -789,17 +789,6 @@
     ]
   },
   {
-    "name": "Howling Cow Cafe",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xvqihsnXGNftNG1TVW0fTQ/o.jpg",
-    "rating": 4.5,
-    "address": "5821 W County Rd 54E, Bellvue, CO 80512",
-    "categories": [
-      "Coffee & Tea",
-      "Breakfast & Brunch",
-      "Sandwiches"
-    ]
-  },
-  {
     "name": "Modern Market Eatery",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MwF1Gj6lxM-3ZInBHK7HjQ/o.jpg",
     "rating": 4.0,
@@ -808,6 +797,17 @@
       "Breakfast & Brunch",
       "Sandwiches",
       "Salad"
+    ]
+  },
+  {
+    "name": "Howling Cow Cafe",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xvqihsnXGNftNG1TVW0fTQ/o.jpg",
+    "rating": 4.5,
+    "address": "5821 W County Rd 54E, Bellvue, CO 80512",
+    "categories": [
+      "Coffee & Tea",
+      "Breakfast & Brunch",
+      "Sandwiches"
     ]
   },
   {
@@ -833,6 +833,15 @@
     ]
   },
   {
+    "name": "RARE Italian",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/g405yPfopTFbrrWQHgAeAA/o.jpg",
+    "rating": 4.0,
+    "address": "101 S College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Italian"
+    ]
+  },
+  {
     "name": "Fieldhouse at The Fort",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZC9U9p-9kKJq0gqH5QHgPw/o.jpg",
     "rating": 4.0,
@@ -841,15 +850,6 @@
       "Sports Bars",
       "Pizza",
       "Coffee & Tea"
-    ]
-  },
-  {
-    "name": "RARE Italian",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/g405yPfopTFbrrWQHgAeAA/o.jpg",
-    "rating": 4.0,
-    "address": "101 S College Ave, Fort Collins, CO 80524",
-    "categories": [
-      "Italian"
     ]
   },
   {
@@ -1068,17 +1068,6 @@
     ]
   },
   {
-    "name": "Avuncular Bob's T-Bar Inn",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qUZUyI7Xucdos43la7koYA/o.jpg",
-    "rating": 3.5,
-    "address": "3803 W Cleveland Ave, Wellington, CO 80549",
-    "categories": [
-      "Diners",
-      "American (Traditional)",
-      "Breakfast & Brunch"
-    ]
-  },
-  {
     "name": "First Watch",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NZI-Dcgf6N4QJYh0kx2hhQ/o.jpg",
     "rating": 3.5,
@@ -1096,6 +1085,17 @@
     "address": "2400 E Harmony Rd, Ste 101, Fort Collins, CO 80528",
     "categories": [
       "Italian"
+    ]
+  },
+  {
+    "name": "Avuncular Bob's T-Bar Inn",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qUZUyI7Xucdos43la7koYA/o.jpg",
+    "rating": 3.5,
+    "address": "3803 W Cleveland Ave, Wellington, CO 80549",
+    "categories": [
+      "Diners",
+      "American (Traditional)",
+      "Breakfast & Brunch"
     ]
   },
   {
@@ -1185,6 +1185,15 @@
     ]
   },
   {
+    "name": "Totally 80's Pizza",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qqbT8jREw26x8KCorV5KLg/o.jpg",
+    "rating": 4.5,
+    "address": "2567 S Shields St, Unit 4C, Fort Collins, CO 80526",
+    "categories": [
+      "Pizza"
+    ]
+  },
+  {
     "name": "A.K.A Kitchen",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mez3QKeoDqySiOumxdQgtw/o.jpg",
     "rating": 4.5,
@@ -1192,15 +1201,6 @@
     "categories": [
       "American (New)",
       "Breakfast & Brunch"
-    ]
-  },
-  {
-    "name": "Totally 80's Pizza",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qqbT8jREw26x8KCorV5KLg/o.jpg",
-    "rating": 4.5,
-    "address": "2567 S Shields St, Unit 4C, Fort Collins, CO 80526",
-    "categories": [
-      "Pizza"
     ]
   },
   {
@@ -1278,17 +1278,6 @@
     ]
   },
   {
-    "name": "CF&G Public Market & Coffeehouse",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rPcJLtKFNAz4st_WraNfUg/o.jpg",
-    "rating": 0.0,
-    "address": "4138 Main St, Unit A, Timnath, CO 80547",
-    "categories": [
-      "Themed Cafes",
-      "Coffee & Tea",
-      "Venues & Event Spaces"
-    ]
-  },
-  {
     "name": "Pour Brothers Community Tavern",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dNPTDp9bDKaiWxcYSIaobQ/o.jpg",
     "rating": 4.0,
@@ -1297,6 +1286,17 @@
       "Cocktail Bars",
       "American (New)",
       "Beer Bar"
+    ]
+  },
+  {
+    "name": "CF&G Public Market & Coffeehouse",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rPcJLtKFNAz4st_WraNfUg/o.jpg",
+    "rating": 0.0,
+    "address": "4138 Main St, Unit A, Timnath, CO 80547",
+    "categories": [
+      "Themed Cafes",
+      "Coffee & Tea",
+      "Venues & Event Spaces"
     ]
   },
   {
@@ -1318,16 +1318,6 @@
     ]
   },
   {
-    "name": "Las Catrinas",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UHqkkbAHCrPsyf3t1DWKtw/o.jpg",
-    "rating": 5.0,
-    "address": "1201 E Mulberry St, Fort Collins, CO 80524",
-    "categories": [
-      "Mexican",
-      "Food Trucks"
-    ]
-  },
-  {
     "name": "Sherpa Grill 2 Indian Nepali Restaurant",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7oO-MSROZ4j3M1hBCxYI5Q/o.jpg",
     "rating": 4.5,
@@ -1336,6 +1326,16 @@
       "Indian",
       "Himalayan/Nepalese",
       "Vegetarian"
+    ]
+  },
+  {
+    "name": "Las Catrinas",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UHqkkbAHCrPsyf3t1DWKtw/o.jpg",
+    "rating": 5.0,
+    "address": "1201 E Mulberry St, Fort Collins, CO 80524",
+    "categories": [
+      "Mexican",
+      "Food Trucks"
     ]
   },
   {
@@ -1445,15 +1445,6 @@
     ]
   },
   {
-    "name": "Mr Chen Sushi & Hibachi Steak House",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O1D4-X0jGAIcx26a3Xt1kg/o.jpg",
-    "rating": 5.0,
-    "address": "2283 W Eisenhower Blvd, Loveland, CO 80537",
-    "categories": [
-      "Japanese"
-    ]
-  },
-  {
     "name": "The Loveland Chophouse",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yh7_OAYRTNVNWupY7rgEgg/o.jpg",
     "rating": 4.0,
@@ -1462,6 +1453,15 @@
       "Steakhouses",
       "Seafood",
       "Whiskey Bars"
+    ]
+  },
+  {
+    "name": "Mr Chen Sushi & Hibachi Steak House",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O1D4-X0jGAIcx26a3Xt1kg/o.jpg",
+    "rating": 5.0,
+    "address": "2283 W Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Japanese"
     ]
   },
   {
@@ -1536,15 +1536,6 @@
     ]
   },
   {
-    "name": "Garbanzo Mediterranean Fresh",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YXcRMXerrN9UIqCxOZHsLA/o.jpg",
-    "rating": 4.0,
-    "address": "100 W Troutman, Ste 120, Ft. Collins, CO 80521",
-    "categories": [
-      "Mediterranean"
-    ]
-  },
-  {
     "name": "Kona Hawaiian BBQ",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MypA2RBKM_2-GUrlskh_3w/o.jpg",
     "rating": 4.0,
@@ -1556,22 +1547,21 @@
     ]
   },
   {
+    "name": "Garbanzo Mediterranean Fresh",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YXcRMXerrN9UIqCxOZHsLA/o.jpg",
+    "rating": 4.0,
+    "address": "100 W Troutman, Ste 120, Ft. Collins, CO 80521",
+    "categories": [
+      "Mediterranean"
+    ]
+  },
+  {
     "name": "Rodizio Grill Brazilian Steakhouse Fort Collins",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uDVcNfPSlHBikAHLk_lIqA/o.jpg",
     "rating": 4.5,
     "address": "200 Jefferson St, Fort Collins, CO 80524",
     "categories": [
       "Brazilian"
-    ]
-  },
-  {
-    "name": "The Breakfast Club",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pE-gCb6OWQByYH5EO3HIJg/o.jpg",
-    "rating": 4.0,
-    "address": "121 W Monroe Dr, Fort Collins, CO 80525",
-    "categories": [
-      "Breakfast & Brunch",
-      "American (Traditional)"
     ]
   },
   {
@@ -1624,6 +1614,16 @@
       "Sports Bars",
       "Barbeque",
       "Cajun/Creole"
+    ]
+  },
+  {
+    "name": "The Breakfast Club",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pE-gCb6OWQByYH5EO3HIJg/o.jpg",
+    "rating": 4.0,
+    "address": "121 W Monroe Dr, Fort Collins, CO 80525",
+    "categories": [
+      "Breakfast & Brunch",
+      "American (Traditional)"
     ]
   },
   {
@@ -1743,14 +1743,13 @@
     ]
   },
   {
-    "name": "Daddy O's Green Onion",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/C-s6csoNlSQgoiZm5aI_Vw/o.jpg",
-    "rating": 4.5,
-    "address": "2188 W Eisenhower Blvd, Loveland, CO 80537",
+    "name": "The Garlic Knot",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PkkdmgUMrwQinK7fUz9-wg/o.jpg",
+    "rating": 3.5,
+    "address": "2601 S Lemay Ave, Fort Collins, CO 80525",
     "categories": [
-      "Breakfast & Brunch",
-      "Fast Food",
-      "Sandwiches"
+      "Pizza",
+      "Italian"
     ]
   },
   {
@@ -1761,16 +1760,6 @@
     "categories": [
       "Ethiopian",
       "Coffee & Tea"
-    ]
-  },
-  {
-    "name": "The Garlic Knot",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PkkdmgUMrwQinK7fUz9-wg/o.jpg",
-    "rating": 3.5,
-    "address": "2601 S Lemay Ave, Fort Collins, CO 80525",
-    "categories": [
-      "Pizza",
-      "Italian"
     ]
   },
   {
@@ -1785,23 +1774,23 @@
     ]
   },
   {
+    "name": "Daddy O's Green Onion",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/C-s6csoNlSQgoiZm5aI_Vw/o.jpg",
+    "rating": 4.5,
+    "address": "2188 W Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Breakfast & Brunch",
+      "Fast Food",
+      "Sandwiches"
+    ]
+  },
+  {
     "name": "Thai Station",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I4POyVck-N7AHVNS-BHWSw/o.jpg",
     "rating": 4.0,
     "address": "626 S College Ave, Fort Collins, CO 80524",
     "categories": [
       "Thai"
-    ]
-  },
-  {
-    "name": "Cafe Bluebird Fort Collins",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/74KZxqtklmXXVfHMKlD-fw/o.jpg",
-    "rating": 4.0,
-    "address": "524 W Laurel St, Ste 2, Fort Collins, CO 80521",
-    "categories": [
-      "Breakfast & Brunch",
-      "American (New)",
-      "Sandwiches"
     ]
   },
   {
@@ -1816,17 +1805,6 @@
     ]
   },
   {
-    "name": "RFC Private Kitchen",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/efWVPoWgVZWZMGJJef2VpQ/o.jpg",
-    "rating": 5.0,
-    "address": "1415 Connecticut Pl, Loveland, CO 80538",
-    "categories": [
-      "Sushi Bars",
-      "Noodles",
-      "Dim Sum"
-    ]
-  },
-  {
     "name": "Jaws Sushi",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hSUorHvroBLRuDqYXNrZHw/o.jpg",
     "rating": 4.0,
@@ -1834,6 +1812,15 @@
     "categories": [
       "Japanese",
       "Sushi Bars"
+    ]
+  },
+  {
+    "name": "Momos",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cz0iGul_FqFr_lDNpm_jJw/o.jpg",
+    "rating": 5.0,
+    "address": "1901 E. Prospect Rd, Fort Collins, CO 80526",
+    "categories": [
+      "Pan Asian"
     ]
   },
   {
@@ -1857,12 +1844,25 @@
     ]
   },
   {
-    "name": "Momos",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cz0iGul_FqFr_lDNpm_jJw/o.jpg",
+    "name": "RFC Private Kitchen",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/efWVPoWgVZWZMGJJef2VpQ/o.jpg",
     "rating": 5.0,
-    "address": "1901 E. Prospect Rd, Fort Collins, CO 80526",
+    "address": "1415 Connecticut Pl, Loveland, CO 80538",
     "categories": [
-      "Pan Asian"
+      "Sushi Bars",
+      "Noodles",
+      "Dim Sum"
+    ]
+  },
+  {
+    "name": "Cafe Bluebird Fort Collins",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/74KZxqtklmXXVfHMKlD-fw/o.jpg",
+    "rating": 4.0,
+    "address": "524 W Laurel St, Ste 2, Fort Collins, CO 80521",
+    "categories": [
+      "Breakfast & Brunch",
+      "American (New)",
+      "Sandwiches"
     ]
   },
   {
@@ -1898,17 +1898,6 @@
     ]
   },
   {
-    "name": "FoCo Cafe",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WNR5KLNFqMofNPIPfX8vaw/o.jpg",
-    "rating": 5.0,
-    "address": "225 Maple St, Fort Collins, CO 80521",
-    "categories": [
-      "Soup",
-      "Cafes",
-      "Community Service/Non-Profit"
-    ]
-  },
-  {
     "name": "Yampa Sandwich Company",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cLt7sdZcGrDFbcJoVj0SuQ/o.jpg",
     "rating": 4.5,
@@ -1917,17 +1906,6 @@
       "Sandwiches",
       "Salad",
       "Soup"
-    ]
-  },
-  {
-    "name": "MeadKrieger - Old Norse Mead",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/id4RBnM9qD7H71WjmgU4Bg/o.jpg",
-    "rating": 4.5,
-    "address": "452 N Washington Ave, Loveland, CO 80537",
-    "categories": [
-      "Meaderies",
-      "Wine Tasting Room",
-      "Tapas/Small Plates"
     ]
   },
   {
@@ -1942,6 +1920,37 @@
     ]
   },
   {
+    "name": "Sonny Lubick Steakhouse",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5cqHD3VjH2gT7XYmtmTxjw/o.jpg",
+    "rating": 4.0,
+    "address": "115 S College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Steakhouses"
+    ]
+  },
+  {
+    "name": "MeadKrieger - Old Norse Mead",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/id4RBnM9qD7H71WjmgU4Bg/o.jpg",
+    "rating": 4.5,
+    "address": "452 N Washington Ave, Loveland, CO 80537",
+    "categories": [
+      "Meaderies",
+      "Wine Tasting Room",
+      "Tapas/Small Plates"
+    ]
+  },
+  {
+    "name": "FoCo Cafe",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WNR5KLNFqMofNPIPfX8vaw/o.jpg",
+    "rating": 5.0,
+    "address": "225 Maple St, Fort Collins, CO 80521",
+    "categories": [
+      "Soup",
+      "Cafes",
+      "Community Service/Non-Profit"
+    ]
+  },
+  {
     "name": "B&B Pickle Barrel",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/djcbtL6DXBEkCWDWBbepHQ/o.jpg",
     "rating": 4.0,
@@ -1950,15 +1959,6 @@
       "Delis",
       "Sandwiches",
       "Cocktail Bars"
-    ]
-  },
-  {
-    "name": "Sonny Lubick Steakhouse",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5cqHD3VjH2gT7XYmtmTxjw/o.jpg",
-    "rating": 4.0,
-    "address": "115 S College Ave, Fort Collins, CO 80524",
-    "categories": [
-      "Steakhouses"
     ]
   },
   {
@@ -1983,16 +1983,6 @@
     ]
   },
   {
-    "name": "The Whiskey",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uU64su8_7G2-vKLUmfn35g/o.jpg",
-    "rating": 4.0,
-    "address": "214 S College Ave, Ste 2, Fort Collins, CO 80524",
-    "categories": [
-      "American (New)",
-      "Whiskey Bars"
-    ]
-  },
-  {
     "name": "Pourhouse",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pCccyd19uzKMiMnih5DDqQ/o.jpg",
     "rating": 3.5,
@@ -2001,6 +1991,16 @@
       "Bars",
       "American (New)",
       "Pizza"
+    ]
+  },
+  {
+    "name": "The Whiskey",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uU64su8_7G2-vKLUmfn35g/o.jpg",
+    "rating": 4.0,
+    "address": "214 S College Ave, Ste 2, Fort Collins, CO 80524",
+    "categories": [
+      "American (New)",
+      "Whiskey Bars"
     ]
   },
   {
@@ -2024,6 +2024,17 @@
     ]
   },
   {
+    "name": "Charco Broiler",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xqB52wdXalksSnUeD2x5PQ/o.jpg",
+    "rating": 3.5,
+    "address": "1716 E Mulberry St, Fort Collins, CO 80524",
+    "categories": [
+      "Steakhouses",
+      "Seafood",
+      "American (Traditional)"
+    ]
+  },
+  {
     "name": "Pollos El Guero",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pkaHno-3srG6qzT5KiXzug/o.jpg",
     "rating": 4.5,
@@ -2033,14 +2044,14 @@
     ]
   },
   {
-    "name": "Charco Broiler",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xqB52wdXalksSnUeD2x5PQ/o.jpg",
+    "name": "Illegal Pete's - Fort Collins",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pinz_YHtp_ZdHIf_L16baA/o.jpg",
     "rating": 3.5,
-    "address": "1716 E Mulberry St, Fort Collins, CO 80524",
+    "address": "320 Walnut St, Fort Collins, CO 80524",
     "categories": [
-      "Steakhouses",
-      "Seafood",
-      "American (Traditional)"
+      "Mexican",
+      "Bars",
+      "Breakfast & Brunch"
     ]
   },
   {
@@ -2061,17 +2072,6 @@
     "address": "3810 Cleveland Ave, Wellington, CO 80549",
     "categories": [
       "Pizza"
-    ]
-  },
-  {
-    "name": "Illegal Pete's - Fort Collins",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pinz_YHtp_ZdHIf_L16baA/o.jpg",
-    "rating": 3.5,
-    "address": "320 Walnut St, Fort Collins, CO 80524",
-    "categories": [
-      "Mexican",
-      "Bars",
-      "Breakfast & Brunch"
     ]
   },
   {
@@ -2097,14 +2097,13 @@
     ]
   },
   {
-    "name": "Jersey Cowboy",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8i--uPC_aRuFxA12dCQkfA/o.jpg",
+    "name": "Rainbow Restaurant",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KJB9fhmzp4mCdwFJmgyejw/o.jpg",
     "rating": 4.5,
-    "address": "1 Old Town Square, Fort Collins, CO 80524",
+    "address": "212 W Laurel St, Fort Collins, CO 80521",
     "categories": [
       "Breakfast & Brunch",
-      "Burgers",
-      "Food Trucks"
+      "Cocktail Bars"
     ]
   },
   {
@@ -2117,16 +2116,6 @@
     ]
   },
   {
-    "name": "Rainbow Restaurant",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KJB9fhmzp4mCdwFJmgyejw/o.jpg",
-    "rating": 4.5,
-    "address": "212 W Laurel St, Fort Collins, CO 80521",
-    "categories": [
-      "Breakfast & Brunch",
-      "Cocktail Bars"
-    ]
-  },
-  {
     "name": "Pho Duy",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JZ66mfP6S_zSqTbPgHdERw/o.jpg",
     "rating": 3.0,
@@ -2136,14 +2125,14 @@
     ]
   },
   {
-    "name": "Mountain Cafe",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FMPaJ5cIyMyNZjUOFBtOLQ/o.jpg",
-    "rating": 4.0,
-    "address": "226 W Mountain Ave, Fort Collins, CO 80521",
+    "name": "Jersey Cowboy",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8i--uPC_aRuFxA12dCQkfA/o.jpg",
+    "rating": 4.5,
+    "address": "1 Old Town Square, Fort Collins, CO 80524",
     "categories": [
-      "American (Traditional)",
-      "Diners",
-      "Breakfast & Brunch"
+      "Breakfast & Brunch",
+      "Burgers",
+      "Food Trucks"
     ]
   },
   {
@@ -2155,6 +2144,17 @@
       "American (Traditional)",
       "Bars",
       "Tex-Mex"
+    ]
+  },
+  {
+    "name": "Wedo's Tacos and Tequila",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EDZGwjKR2ln1huJRZbDHgQ/o.jpg",
+    "rating": 3.0,
+    "address": "1939 Jessup Dr, Fort Collins, CO 80525",
+    "categories": [
+      "Seafood",
+      "Tacos",
+      "Cocktail Bars"
     ]
   },
   {
@@ -2179,25 +2179,14 @@
     ]
   },
   {
-    "name": "Wedo's Tacos and Tequila",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EDZGwjKR2ln1huJRZbDHgQ/o.jpg",
-    "rating": 3.0,
-    "address": "1939 Jessup Dr, Fort Collins, CO 80525",
+    "name": "Mountain Cafe",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FMPaJ5cIyMyNZjUOFBtOLQ/o.jpg",
+    "rating": 4.0,
+    "address": "226 W Mountain Ave, Fort Collins, CO 80521",
     "categories": [
-      "Seafood",
-      "Tacos",
-      "Cocktail Bars"
-    ]
-  },
-  {
-    "name": "HuKa Sushi Asian Food Trailer",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YwvIZLmmbR5utaSxxhxVwQ/o.jpg",
-    "rating": 5.0,
-    "address": "Fort Collins, CO 80524",
-    "categories": [
-      "Food Trucks",
-      "Sushi Bars",
-      "Asian Fusion"
+      "American (Traditional)",
+      "Diners",
+      "Breakfast & Brunch"
     ]
   },
   {
@@ -2212,12 +2201,34 @@
     ]
   },
   {
+    "name": "Coopersmith's Pub & Brewing",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lfU_o_XM5Y4Zeyq3pX99ag/o.jpg",
+    "rating": 3.5,
+    "address": "5 Old Town Sq, Fort Collins, CO 80524",
+    "categories": [
+      "Pubs",
+      "Pool Halls",
+      "American (Traditional)"
+    ]
+  },
+  {
     "name": "Obee's Soup Salad Subs",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b8dOUcOxqDiVJS8B0qbt_g/o.jpg",
     "rating": 4.0,
     "address": "1606 S Lemay Ave, Fort Collins, CO 80525",
     "categories": [
       "Sandwiches"
+    ]
+  },
+  {
+    "name": "HuKa Sushi Asian Food Trailer",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YwvIZLmmbR5utaSxxhxVwQ/o.jpg",
+    "rating": 5.0,
+    "address": "Fort Collins, CO 80524",
+    "categories": [
+      "Food Trucks",
+      "Sushi Bars",
+      "Asian Fusion"
     ]
   },
   {
@@ -2230,14 +2241,13 @@
     ]
   },
   {
-    "name": "Coopersmith's Pub & Brewing",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lfU_o_XM5Y4Zeyq3pX99ag/o.jpg",
-    "rating": 3.5,
-    "address": "5 Old Town Sq, Fort Collins, CO 80524",
+    "name": "Los Pepe's Food Truck Wellington",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6AC4vs7kq3mcSRoQaYWFtg/o.jpg",
+    "rating": 0.0,
+    "address": "8099 6th St, Wellington, CO 80549",
     "categories": [
-      "Pubs",
-      "Pool Halls",
-      "American (Traditional)"
+      "Mexican",
+      "Food Trucks"
     ]
   },
   {
@@ -2252,13 +2262,12 @@
     ]
   },
   {
-    "name": "Los Pepe's Food Truck Wellington",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6AC4vs7kq3mcSRoQaYWFtg/o.jpg",
-    "rating": 0.0,
-    "address": "8099 6th St, Wellington, CO 80549",
+    "name": "Cafe Mexicali",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zDl5LDDthaLXIRt05W3EXA/o.jpg",
+    "rating": 3.5,
+    "address": "2925 S College Ave, Fort Collins, CO 80525",
     "categories": [
-      "Mexican",
-      "Food Trucks"
+      "Mexican"
     ]
   },
   {
@@ -2270,15 +2279,6 @@
       "Food Trucks",
       "Soup",
       "Desserts"
-    ]
-  },
-  {
-    "name": "Cafe Mexicali",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zDl5LDDthaLXIRt05W3EXA/o.jpg",
-    "rating": 3.5,
-    "address": "2925 S College Ave, Fort Collins, CO 80525",
-    "categories": [
-      "Mexican"
     ]
   },
   {
@@ -2333,17 +2333,6 @@
     ]
   },
   {
-    "name": "Ras-Ka",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bVclcX2u0Ydrup3lMt5YYA/o.jpg",
-    "rating": 4.5,
-    "address": "128-A W Laurel St, Fort Collins, CO 80524",
-    "categories": [
-      "Vegan",
-      "Vegetarian",
-      "Ethiopian"
-    ]
-  },
-  {
     "name": "El Pueblito Mexican Restaurant",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/g7WRloj8nIpXs4iYQnhJlg/o.jpg",
     "rating": 3.5,
@@ -2353,12 +2342,14 @@
     ]
   },
   {
-    "name": "Raff's Tavern",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e_sJBdNWKRfszCv1Z5g24g/o.jpg",
-    "rating": 4.0,
-    "address": "6300 Highland Meadows Pkwy, Windsor, CO 80550",
+    "name": "Ras-Ka",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bVclcX2u0Ydrup3lMt5YYA/o.jpg",
+    "rating": 4.5,
+    "address": "128-A W Laurel St, Fort Collins, CO 80524",
     "categories": [
-      "American (New)"
+      "Vegan",
+      "Vegetarian",
+      "Ethiopian"
     ]
   },
   {
@@ -2373,6 +2364,15 @@
     ]
   },
   {
+    "name": "Raff's Tavern",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e_sJBdNWKRfszCv1Z5g24g/o.jpg",
+    "rating": 4.0,
+    "address": "6300 Highland Meadows Pkwy, Windsor, CO 80550",
+    "categories": [
+      "American (New)"
+    ]
+  },
+  {
     "name": "Chili House",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Cn3dpFJRhVTkS7-DhubCJw/o.jpg",
     "rating": 3.5,
@@ -2380,6 +2380,16 @@
     "categories": [
       "Chinese",
       "Thai"
+    ]
+  },
+  {
+    "name": "Great Harvest Bread",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NMHhG_3d6MeghPAZNgHyfQ/o.jpg",
+    "rating": 4.5,
+    "address": "2601 S Lemay Ave, Unit 1, Fort Collins, CO 80525",
+    "categories": [
+      "Bakeries",
+      "Sandwiches"
     ]
   },
   {
@@ -2394,16 +2404,6 @@
     ]
   },
   {
-    "name": "Great Harvest Bread",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NMHhG_3d6MeghPAZNgHyfQ/o.jpg",
-    "rating": 4.5,
-    "address": "2601 S Lemay Ave, Unit 1, Fort Collins, CO 80525",
-    "categories": [
-      "Bakeries",
-      "Sandwiches"
-    ]
-  },
-  {
     "name": "Cafe Athens",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EJn9FxWN476SE68CxdY8Yw/o.jpg",
     "rating": 3.5,
@@ -2415,15 +2415,6 @@
     ]
   },
   {
-    "name": "The Border Restaurant",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hJI-W6AbFIbq3NAEsSDxtw/o.jpg",
-    "rating": 4.0,
-    "address": "404 Main St, Windsor, CO 80550",
-    "categories": [
-      "American (New)"
-    ]
-  },
-  {
     "name": "MrBeast Burger",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qfV5vzPgJ4cdO9VwFDuW3Q/o.jpg",
     "rating": 2.5,
@@ -2431,6 +2422,15 @@
     "categories": [
       "Burgers",
       "Food Delivery Services"
+    ]
+  },
+  {
+    "name": "The Border Restaurant",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hJI-W6AbFIbq3NAEsSDxtw/o.jpg",
+    "rating": 4.0,
+    "address": "404 Main St, Windsor, CO 80550",
+    "categories": [
+      "American (New)"
     ]
   },
   {
@@ -2453,13 +2453,12 @@
     ]
   },
   {
-    "name": "Yum Yum Social",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kWTKQDdvsgVxTAdIpFuNsA/o.jpg",
-    "rating": 3.5,
-    "address": "1300 W Elizabeth St, Fort Collins, CO 80521",
+    "name": "Slyce Pizza",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8V7VJ9rDfmSVkakm8toKSQ/o.jpg",
+    "rating": 4.5,
+    "address": "163 W Mountain Ave, Fort Collins, CO 80524",
     "categories": [
-      "Mediterranean",
-      "Juice Bars & Smoothies"
+      "Pizza"
     ]
   },
   {
@@ -2472,6 +2471,16 @@
     ]
   },
   {
+    "name": "Yum Yum Social",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kWTKQDdvsgVxTAdIpFuNsA/o.jpg",
+    "rating": 3.5,
+    "address": "1300 W Elizabeth St, Fort Collins, CO 80521",
+    "categories": [
+      "Mediterranean",
+      "Juice Bars & Smoothies"
+    ]
+  },
+  {
     "name": "Pinocchio's",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/112LuTozAo7ufiYsMVT3GA/o.jpg",
     "rating": 3.0,
@@ -2481,12 +2490,14 @@
     ]
   },
   {
-    "name": "Slyce Pizza",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8V7VJ9rDfmSVkakm8toKSQ/o.jpg",
-    "rating": 4.5,
-    "address": "163 W Mountain Ave, Fort Collins, CO 80524",
+    "name": "Krazy Karl's Pizza",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CSvbryKIZxp2hR6A6zlLEw/o.jpg",
+    "rating": 3.5,
+    "address": "1124 W Elizabeth St, Fort Collins, CO 80521",
     "categories": [
-      "Pizza"
+      "Pizza",
+      "Sports Bars",
+      "Chicken Wings"
     ]
   },
   {
@@ -2497,6 +2508,26 @@
     "categories": [
       "Pizza",
       "Food Delivery Services"
+    ]
+  },
+  {
+    "name": "Hiroshi Teriyaki Grill",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/74ygWNO8FmWbNQ-nojbUMQ/o.jpg",
+    "rating": 3.0,
+    "address": "4904 Larimer Pkwy, Johnstown, CO 80534",
+    "categories": [
+      "Japanese"
+    ]
+  },
+  {
+    "name": "McGraff's American Grill",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/F-MPQAhYXE6N0vhH2pvtJw/o.jpg",
+    "rating": 3.5,
+    "address": "1602 E Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Fish & Chips",
+      "American (Traditional)",
+      "Bars"
     ]
   },
   {
@@ -2530,26 +2561,6 @@
     ]
   },
   {
-    "name": "Hiroshi Teriyaki Grill",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/74ygWNO8FmWbNQ-nojbUMQ/o.jpg",
-    "rating": 3.0,
-    "address": "4904 Larimer Pkwy, Johnstown, CO 80534",
-    "categories": [
-      "Japanese"
-    ]
-  },
-  {
-    "name": "Krazy Karl's Pizza",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CSvbryKIZxp2hR6A6zlLEw/o.jpg",
-    "rating": 3.5,
-    "address": "1124 W Elizabeth St, Fort Collins, CO 80521",
-    "categories": [
-      "Pizza",
-      "Sports Bars",
-      "Chicken Wings"
-    ]
-  },
-  {
     "name": "Clean Eatz",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rfH1eHGqzG7u3YYuHZ8qtg/o.jpg",
     "rating": 3.5,
@@ -2561,14 +2572,12 @@
     ]
   },
   {
-    "name": "McGraff's American Grill",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/F-MPQAhYXE6N0vhH2pvtJw/o.jpg",
-    "rating": 3.5,
-    "address": "1602 E Eisenhower Blvd, Loveland, CO 80537",
+    "name": "The Melting Pot",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oeuDoD80Z4hq8pWH1ol6cA/o.jpg",
+    "rating": 4.5,
+    "address": "334 E Mountain Ave, Fort Collins, CO 80524",
     "categories": [
-      "Fish & Chips",
-      "American (Traditional)",
-      "Bars"
+      "Fondue"
     ]
   },
   {
@@ -2587,15 +2596,6 @@
     "address": "2008 E Lincoln Ave, Fort Collins, CO 80524",
     "categories": [
       "Honduran"
-    ]
-  },
-  {
-    "name": "The Melting Pot",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oeuDoD80Z4hq8pWH1ol6cA/o.jpg",
-    "rating": 4.5,
-    "address": "334 E Mountain Ave, Fort Collins, CO 80524",
-    "categories": [
-      "Fondue"
     ]
   },
   {
@@ -2648,12 +2648,12 @@
     ]
   },
   {
-    "name": "The Taco Stop",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7rDJbNBXZ6Hxh17HkrS2hw/o.jpg",
-    "rating": 4.5,
-    "address": "6324 S College Ave, Fort Collins, CO 80525",
+    "name": "Hunan Chinese Restaurant",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/B4GyuLIX1yl9i06LF9aJ9g/o.jpg",
+    "rating": 3.5,
+    "address": "731 E Harmony Rd, Ste 300, Fort Collins, CO 80525",
     "categories": [
-      "Mexican"
+      "Chinese"
     ]
   },
   {
@@ -2667,23 +2667,33 @@
     ]
   },
   {
-    "name": "Hunan Chinese Restaurant",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/B4GyuLIX1yl9i06LF9aJ9g/o.jpg",
-    "rating": 3.5,
-    "address": "731 E Harmony Rd, Ste 300, Fort Collins, CO 80525",
+    "name": "The Taco Stop",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7rDJbNBXZ6Hxh17HkrS2hw/o.jpg",
+    "rating": 4.5,
+    "address": "6324 S College Ave, Fort Collins, CO 80525",
     "categories": [
-      "Chinese"
+      "Mexican"
     ]
   },
   {
-    "name": "Yampa Sandwich Company",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sUgRkJdRduqcHAJ3bLGDZg/o.jpg",
-    "rating": 4.5,
-    "address": "140 N College Ave, Fort Collins, CO 80523",
+    "name": "MOD Pizza",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4KV-mrq7car7krJHXrkhbg/o.jpg",
+    "rating": 4.0,
+    "address": "1013 Centre Ave, Fort Collins, CO 80526",
     "categories": [
-      "Delis",
-      "Sandwiches",
-      "Salad"
+      "Fast Food",
+      "Pizza"
+    ]
+  },
+  {
+    "name": "Los Tarascos",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s9H4YvtrWIlP4_SKIMZkuQ/o.jpg",
+    "rating": 4.0,
+    "address": "622 S College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Mexican",
+      "Desserts",
+      "Breakfast & Brunch"
     ]
   },
   {
@@ -2707,24 +2717,14 @@
     ]
   },
   {
-    "name": "Los Tarascos",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s9H4YvtrWIlP4_SKIMZkuQ/o.jpg",
-    "rating": 4.0,
-    "address": "622 S College Ave, Fort Collins, CO 80524",
+    "name": "Yampa Sandwich Company",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sUgRkJdRduqcHAJ3bLGDZg/o.jpg",
+    "rating": 4.5,
+    "address": "140 N College Ave, Fort Collins, CO 80523",
     "categories": [
-      "Mexican",
-      "Desserts",
-      "Breakfast & Brunch"
-    ]
-  },
-  {
-    "name": "MOD Pizza",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4KV-mrq7car7krJHXrkhbg/o.jpg",
-    "rating": 4.0,
-    "address": "1013 Centre Ave, Fort Collins, CO 80526",
-    "categories": [
-      "Fast Food",
-      "Pizza"
+      "Delis",
+      "Sandwiches",
+      "Salad"
     ]
   },
   {
@@ -2781,6 +2781,17 @@
     ]
   },
   {
+    "name": "Jay's Bistro",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/r_kO0LI75duh12ObGgBeTg/o.jpg",
+    "rating": 4.0,
+    "address": "135 W Oak St, Fort Collins, CO 80524",
+    "categories": [
+      "American (New)",
+      "Wine Bars",
+      "Jazz & Blues"
+    ]
+  },
+  {
     "name": "Becca's Gourmet Goodies",
     "image_url": "",
     "rating": 5.0,
@@ -2802,6 +2813,16 @@
     ]
   },
   {
+    "name": "Jim's Wings",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2MU3Th22FSOTY_2RyaHy-Q/o.jpg",
+    "rating": 4.0,
+    "address": "1205 W Elizabeth St, Fort Collins, CO 80521",
+    "categories": [
+      "American (Traditional)",
+      "Chicken Wings"
+    ]
+  },
+  {
     "name": "Doug's Day Diner -Windsor",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bmkb4abzg-uRRZLLDn3K1A/o.jpg",
     "rating": 4.0,
@@ -2813,23 +2834,34 @@
     ]
   },
   {
-    "name": "Jay's Bistro",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/r_kO0LI75duh12ObGgBeTg/o.jpg",
-    "rating": 4.0,
-    "address": "135 W Oak St, Fort Collins, CO 80524",
+    "name": "Yum Yum's Social",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QC3KRbiPKjcH_BS6jXaUGQ/o.jpg",
+    "rating": 3.5,
+    "address": "1300 W Elizabeth St, Fort Collins, CO 80521",
     "categories": [
-      "American (New)",
-      "Wine Bars",
-      "Jazz & Blues"
+      "Middle Eastern",
+      "Mediterranean",
+      "Juice Bars & Smoothies"
     ]
   },
   {
-    "name": "Jim's Wings",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2MU3Th22FSOTY_2RyaHy-Q/o.jpg",
-    "rating": 4.0,
-    "address": "1205 W Elizabeth St, Fort Collins, CO 80521",
+    "name": "BJ's Restaurant & Brewhouse",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tpVtPjxOjFEEsOsFzRuaNQ/o.jpg",
+    "rating": 2.5,
+    "address": "2670 E Harmony Rd, Fort Collins, CO 80528",
     "categories": [
-      "American (Traditional)",
+      "Pizza",
+      "American (New)",
+      "Breweries"
+    ]
+  },
+  {
+    "name": "Riki's Mexican Grill",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/er2bFT0yDOqQzlVpDc5SwQ/o.jpg",
+    "rating": 4.5,
+    "address": "1473 E Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Mexican",
       "Chicken Wings"
     ]
   },
@@ -2845,24 +2877,14 @@
     ]
   },
   {
-    "name": "Yum Yum's Social",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QC3KRbiPKjcH_BS6jXaUGQ/o.jpg",
+    "name": "Olive Garden Italian Restaurant",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5WI6mDA6RTm7v5QyLpvZew/o.jpg",
     "rating": 3.5,
-    "address": "1300 W Elizabeth St, Fort Collins, CO 80521",
+    "address": "3905 S College Ave, Fort Collins, CO 80525",
     "categories": [
-      "Middle Eastern",
-      "Mediterranean",
-      "Juice Bars & Smoothies"
-    ]
-  },
-  {
-    "name": "Riki's Mexican Grill",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/er2bFT0yDOqQzlVpDc5SwQ/o.jpg",
-    "rating": 4.5,
-    "address": "1473 E Eisenhower Blvd, Loveland, CO 80537",
-    "categories": [
-      "Mexican",
-      "Chicken Wings"
+      "Italian",
+      "Salad",
+      "Soup"
     ]
   },
   {
@@ -2872,28 +2894,6 @@
     "address": "1011 S Lemay Ave, Fort Collins, CO 80524",
     "categories": [
       "Chicken Wings"
-    ]
-  },
-  {
-    "name": "BJ's Restaurant & Brewhouse",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tpVtPjxOjFEEsOsFzRuaNQ/o.jpg",
-    "rating": 2.5,
-    "address": "2670 E Harmony Rd, Fort Collins, CO 80528",
-    "categories": [
-      "Pizza",
-      "American (New)",
-      "Breweries"
-    ]
-  },
-  {
-    "name": "Olive Garden Italian Restaurant",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5WI6mDA6RTm7v5QyLpvZew/o.jpg",
-    "rating": 3.5,
-    "address": "3905 S College Ave, Fort Collins, CO 80525",
-    "categories": [
-      "Italian",
-      "Salad",
-      "Soup"
     ]
   },
   {
@@ -2916,16 +2916,6 @@
     ]
   },
   {
-    "name": "Sundance Steakhouse & Saloon",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_JYK9zitC_WphW6n7dlqUw/o.jpg",
-    "rating": 2.5,
-    "address": "2716 E Mulberry St, Fort Collins, CO 80524",
-    "categories": [
-      "Bars",
-      "American (Traditional)"
-    ]
-  },
-  {
     "name": "First Watch",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3g-9gI5RbL4C53lyL3c1zQ/o.jpg",
     "rating": 4.0,
@@ -2944,6 +2934,16 @@
     "categories": [
       "Wine Bars",
       "Tapas/Small Plates"
+    ]
+  },
+  {
+    "name": "Sundance Steakhouse & Saloon",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_JYK9zitC_WphW6n7dlqUw/o.jpg",
+    "rating": 2.5,
+    "address": "2716 E Mulberry St, Fort Collins, CO 80524",
+    "categories": [
+      "Bars",
+      "American (Traditional)"
     ]
   },
   {
@@ -2991,17 +2991,6 @@
     ]
   },
   {
-    "name": "Serendipity Food Truck",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mLeWglnUUO3Wc39zGSkQWw/o.jpg",
-    "rating": 4.5,
-    "address": "Fort Collins, CO 80525",
-    "categories": [
-      "American (New)",
-      "Food Trucks",
-      "Comfort Food"
-    ]
-  },
-  {
     "name": "Scripted Bar & Kitchen",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2rTNi-Qyu9UO4kTOn__Lfw/o.jpg",
     "rating": 2.5,
@@ -3019,6 +3008,17 @@
     "categories": [
       "Ice Cream & Frozen Yogurt",
       "Mexican"
+    ]
+  },
+  {
+    "name": "Serendipity Food Truck",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mLeWglnUUO3Wc39zGSkQWw/o.jpg",
+    "rating": 4.5,
+    "address": "Fort Collins, CO 80525",
+    "categories": [
+      "American (New)",
+      "Food Trucks",
+      "Comfort Food"
     ]
   },
   {
@@ -3101,6 +3101,15 @@
     ]
   },
   {
+    "name": "Black Steer",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-L495MMcklTn6QcClgle-g/o.jpg",
+    "rating": 3.0,
+    "address": "436 N Lincoln Ave, Loveland, CO 80537",
+    "categories": [
+      "Steakhouses"
+    ]
+  },
+  {
     "name": "Vatos Tacos and Tequila",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bB90CDU7JyjPCzfa4hIjrQ/o.jpg",
     "rating": 3.5,
@@ -3121,25 +3130,6 @@
     ]
   },
   {
-    "name": "Black Steer",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-L495MMcklTn6QcClgle-g/o.jpg",
-    "rating": 3.0,
-    "address": "436 N Lincoln Ave, Loveland, CO 80537",
-    "categories": [
-      "Steakhouses"
-    ]
-  },
-  {
-    "name": "Honolulu Poke Bar",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/X3MgKedCEAsyx8u9Wn4B0A/o.jpg",
-    "rating": 4.0,
-    "address": "2842 Council Tree Ave, Ste 131, Fort Collins, CO 80525",
-    "categories": [
-      "Poke",
-      "Hawaiian"
-    ]
-  },
-  {
     "name": "Great Harvest Bread",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PF7LfSlwyoTlS0rmCK-zGw/o.jpg",
     "rating": 4.0,
@@ -3151,12 +3141,13 @@
     ]
   },
   {
-    "name": "Bhindi Bros",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9RIW7QUN2vhVTGM3T7PO0w/o.jpg",
-    "rating": 0.0,
-    "address": "427 S Link Ln, Fort Collins, CO 80524",
+    "name": "Honolulu Poke Bar",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/X3MgKedCEAsyx8u9Wn4B0A/o.jpg",
+    "rating": 4.0,
+    "address": "2842 Council Tree Ave, Ste 131, Fort Collins, CO 80525",
     "categories": [
-      "Indian"
+      "Poke",
+      "Hawaiian"
     ]
   },
   {
@@ -3171,14 +3162,12 @@
     ]
   },
   {
-    "name": "Brunch Bros.",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EsJMQUVklDTY2gqfv1_j0g/o.jpg",
-    "rating": 5.0,
-    "address": "100 S College Ave, Fort Collins, CO 80525",
+    "name": "Bhindi Bros",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9RIW7QUN2vhVTGM3T7PO0w/o.jpg",
+    "rating": 0.0,
+    "address": "427 S Link Ln, Fort Collins, CO 80524",
     "categories": [
-      "Cheesesteaks",
-      "Food Trucks",
-      "Street Vendors"
+      "Indian"
     ]
   },
   {
@@ -3200,6 +3189,17 @@
       "Pizza",
       "Chicken Wings",
       "Sports Bars"
+    ]
+  },
+  {
+    "name": "Brunch Bros.",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EsJMQUVklDTY2gqfv1_j0g/o.jpg",
+    "rating": 5.0,
+    "address": "100 S College Ave, Fort Collins, CO 80525",
+    "categories": [
+      "Cheesesteaks",
+      "Food Trucks",
+      "Street Vendors"
     ]
   },
   {
@@ -3305,6 +3305,15 @@
     ]
   },
   {
+    "name": "Big City Burrito",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aKYCekhbl1-X14y2b5aeGg/o.jpg",
+    "rating": 3.5,
+    "address": "510 S College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Mexican"
+    ]
+  },
+  {
     "name": "Kolache Bee",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YJusQhyuQgP-MPekNV0HfA/o.jpg",
     "rating": 0.0,
@@ -3315,26 +3324,6 @@
     ]
   },
   {
-    "name": "Big City Burrito",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aKYCekhbl1-X14y2b5aeGg/o.jpg",
-    "rating": 3.5,
-    "address": "510 S College Ave, Fort Collins, CO 80524",
-    "categories": [
-      "Mexican"
-    ]
-  },
-  {
-    "name": "Spoons - Soups, Salads & Sandwiches - Fort Collins",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OCF3ZyHFidGk9PQ3_AUh_A/o.jpg",
-    "rating": 4.0,
-    "address": "4609 S Timberline Rd, Fort Collins, CO 80528",
-    "categories": [
-      "Salad",
-      "Soup",
-      "Sandwiches"
-    ]
-  },
-  {
     "name": "Rock Bottom",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pssVvcUIzxxlXs9OwY7sKQ/o.jpg",
     "rating": 2.5,
@@ -3342,15 +3331,6 @@
     "categories": [
       "American (New)",
       "Breweries"
-    ]
-  },
-  {
-    "name": "Las Delicias Uptown",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zRXJie-DsvIehkwCbVa2iA/o.jpg",
-    "rating": 5.0,
-    "address": "1845 N College Ave, Ste 130, Fort Collins, CO 80524",
-    "categories": [
-      "Mexican"
     ]
   },
   {
@@ -3373,6 +3353,26 @@
     ]
   },
   {
+    "name": "Spoons - Soups, Salads & Sandwiches - Fort Collins",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OCF3ZyHFidGk9PQ3_AUh_A/o.jpg",
+    "rating": 4.0,
+    "address": "4609 S Timberline Rd, Fort Collins, CO 80528",
+    "categories": [
+      "Salad",
+      "Soup",
+      "Sandwiches"
+    ]
+  },
+  {
+    "name": "Las Delicias Uptown",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zRXJie-DsvIehkwCbVa2iA/o.jpg",
+    "rating": 5.0,
+    "address": "1845 N College Ave, Ste 130, Fort Collins, CO 80524",
+    "categories": [
+      "Mexican"
+    ]
+  },
+  {
     "name": "Nimo's Sushi Bar & Japanese Restaurant",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Wsv1NUXU54NFS15knmFsCw/o.jpg",
     "rating": 3.5,
@@ -3380,16 +3380,6 @@
     "categories": [
       "Japanese",
       "Sushi Bars"
-    ]
-  },
-  {
-    "name": "La Campechana",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OBL-iy_S_uooPUHeS3W6cQ/o.jpg",
-    "rating": 4.5,
-    "address": "1235 N College Ave, Fort Collins, CO 80524",
-    "categories": [
-      "Food Trucks",
-      "Mexican"
     ]
   },
   {
@@ -3410,6 +3400,16 @@
     "address": "425 W Prospect Rd, Fort Collins, CO 80525",
     "categories": [
       "Dinner Theater"
+    ]
+  },
+  {
+    "name": "La Campechana",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OBL-iy_S_uooPUHeS3W6cQ/o.jpg",
+    "rating": 4.5,
+    "address": "1235 N College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Food Trucks",
+      "Mexican"
     ]
   },
   {
@@ -3435,21 +3435,21 @@
     ]
   },
   {
-    "name": "Tajmahal Restaurant",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Xq-BhmVMjMj-31vqUVpkhA/o.jpg",
-    "rating": 4.0,
-    "address": "148 W Oak St, Fort Collins, CO 80524",
-    "categories": [
-      "Indian"
-    ]
-  },
-  {
     "name": "Cheba Hut Toasted Subs",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7sxMFoNw92LhAu7CCUlzFA/o.jpg",
     "rating": 3.5,
     "address": "4942 Thompson Pkwy, Johnstown, CO 80534",
     "categories": [
       "Sandwiches"
+    ]
+  },
+  {
+    "name": "Tajmahal Restaurant",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Xq-BhmVMjMj-31vqUVpkhA/o.jpg",
+    "rating": 4.0,
+    "address": "148 W Oak St, Fort Collins, CO 80524",
+    "categories": [
+      "Indian"
     ]
   },
   {
@@ -3460,28 +3460,6 @@
     "categories": [
       "Food Trucks",
       "Mexican"
-    ]
-  },
-  {
-    "name": "Fat Shack",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wAS4CCA7bfHhl6KbMZd2ZA/o.jpg",
-    "rating": 2.5,
-    "address": "706 S College Ave, Ste 102, Fort Collins, CO 80524",
-    "categories": [
-      "Sandwiches",
-      "Burgers",
-      "Chicken Wings"
-    ]
-  },
-  {
-    "name": "Crazy King Burrito",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TMvbGr-6lnJoCNUeF8-_FA/o.jpg",
-    "rating": 3.0,
-    "address": "632 S College Ave, Fort Collins, CO 80524",
-    "categories": [
-      "Mexican",
-      "Food Delivery Services",
-      "New Mexican Cuisine"
     ]
   },
   {
@@ -3496,13 +3474,24 @@
     ]
   },
   {
-    "name": "Consuelo's Express",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9NwbESkTiKLsmeMwH-UGKQ/o.jpg",
-    "rating": 3.5,
-    "address": "726 S Lemay Ave, Fort Collins, CO 80526",
+    "name": "Steak-Out Saloon",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yKvdR2bASM-W7Z9OnaWIsw/o.jpg",
+    "rating": 4.0,
+    "address": "152 W Mountain Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Bars",
+      "American (Traditional)"
+    ]
+  },
+  {
+    "name": "Crazy King Burrito",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TMvbGr-6lnJoCNUeF8-_FA/o.jpg",
+    "rating": 3.0,
+    "address": "632 S College Ave, Fort Collins, CO 80524",
     "categories": [
       "Mexican",
-      "Breakfast & Brunch"
+      "Food Delivery Services",
+      "New Mexican Cuisine"
     ]
   },
   {
@@ -3526,16 +3515,6 @@
     ]
   },
   {
-    "name": "Steak-Out Saloon",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yKvdR2bASM-W7Z9OnaWIsw/o.jpg",
-    "rating": 4.0,
-    "address": "152 W Mountain Ave, Fort Collins, CO 80524",
-    "categories": [
-      "Bars",
-      "American (Traditional)"
-    ]
-  },
-  {
     "name": "Chili Thai",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pRHp7EV67w1qOnhrK0dU5A/o.jpg",
     "rating": 4.0,
@@ -3555,17 +3534,6 @@
     ]
   },
   {
-    "name": "Teriyaki Wok Two",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PJfGeRVQowIrV2q3wfucSw/o.jpg",
-    "rating": 3.5,
-    "address": "829 S Shields St, Fort Collins, CO 80521",
-    "categories": [
-      "Japanese",
-      "Korean",
-      "Sushi Bars"
-    ]
-  },
-  {
     "name": "Noodles & Company",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/amg9ZygjhekTTRAUgQUlQg/o.jpg",
     "rating": 3.0,
@@ -3577,14 +3545,14 @@
     ]
   },
   {
-    "name": "Gib's NY Bagel",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uh6uSXxbpUgiKBRoIHP6VA/o.jpg",
-    "rating": 3.0,
-    "address": "2531 S Shields St, Ste 2E, Fort Collins, CO 80526",
+    "name": "Teriyaki Wok Two",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PJfGeRVQowIrV2q3wfucSw/o.jpg",
+    "rating": 3.5,
+    "address": "829 S Shields St, Fort Collins, CO 80521",
     "categories": [
-      "Delis",
-      "Bagels",
-      "Coffee & Tea"
+      "Japanese",
+      "Korean",
+      "Sushi Bars"
     ]
   },
   {
@@ -3599,6 +3567,16 @@
     ]
   },
   {
+    "name": "Consuelo's Express",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9NwbESkTiKLsmeMwH-UGKQ/o.jpg",
+    "rating": 3.5,
+    "address": "726 S Lemay Ave, Fort Collins, CO 80526",
+    "categories": [
+      "Mexican",
+      "Breakfast & Brunch"
+    ]
+  },
+  {
     "name": "The Sand Bar at Pelican Lakes",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BmPE3ENAOeDPRlDldA2lqw/o.jpg",
     "rating": 4.0,
@@ -3607,26 +3585,6 @@
       "Sports Bars",
       "Golf",
       "Pizza"
-    ]
-  },
-  {
-    "name": "Burger King",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tZp8rp5kGhqiD4_Ennx1kg/o.jpg",
-    "rating": 1.5,
-    "address": "8214 6th St, Wellington, CO 80549",
-    "categories": [
-      "Burgers",
-      "Fast Food"
-    ]
-  },
-  {
-    "name": "Suehiro Japanese Restaurant",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YqkXX90TAKBT82JnDvLYaw/o.jpg",
-    "rating": 3.5,
-    "address": "4431 Corbett Dr, Ste 104, Front Range Village, Fort Collins, CO 80525",
-    "categories": [
-      "Japanese",
-      "Sushi Bars"
     ]
   },
   {
@@ -3640,12 +3598,43 @@
     ]
   },
   {
+    "name": "Suehiro Japanese Restaurant",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YqkXX90TAKBT82JnDvLYaw/o.jpg",
+    "rating": 3.5,
+    "address": "4431 Corbett Dr, Ste 104, Front Range Village, Fort Collins, CO 80525",
+    "categories": [
+      "Japanese",
+      "Sushi Bars"
+    ]
+  },
+  {
+    "name": "Fat Shack",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wAS4CCA7bfHhl6KbMZd2ZA/o.jpg",
+    "rating": 2.5,
+    "address": "706 S College Ave, Ste 102, Fort Collins, CO 80524",
+    "categories": [
+      "Sandwiches",
+      "Burgers",
+      "Chicken Wings"
+    ]
+  },
+  {
     "name": "Hog Wild BBQ",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3up7Izz6A0ZlGJg7hO4sSQ/o.jpg",
     "rating": 4.0,
     "address": "223 S Link Ln, Fort Collins, CO 80524",
     "categories": [
       "Barbeque"
+    ]
+  },
+  {
+    "name": "Burger King",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tZp8rp5kGhqiD4_Ennx1kg/o.jpg",
+    "rating": 1.5,
+    "address": "8214 6th St, Wellington, CO 80549",
+    "categories": [
+      "Burgers",
+      "Fast Food"
     ]
   },
   {
@@ -3657,6 +3646,17 @@
       "Barbeque",
       "American (Traditional)",
       "Salad"
+    ]
+  },
+  {
+    "name": "Gib's NY Bagel",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uh6uSXxbpUgiKBRoIHP6VA/o.jpg",
+    "rating": 3.0,
+    "address": "2531 S Shields St, Ste 2E, Fort Collins, CO 80526",
+    "categories": [
+      "Delis",
+      "Bagels",
+      "Coffee & Tea"
     ]
   },
   {
@@ -3728,17 +3728,6 @@
     ]
   },
   {
-    "name": "Waffle House",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0-TBYaANQOI2wLa4b_H1zQ/o.jpg",
-    "rating": 4.0,
-    "address": "3850 E Mulberry St, Fort Collins, CO 80524",
-    "categories": [
-      "Breakfast & Brunch",
-      "Diners",
-      "American (Traditional)"
-    ]
-  },
-  {
     "name": "The Boot Grill",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bR37uh_SWr1Yi-9dHObtww/o.jpg",
     "rating": 2.5,
@@ -3747,6 +3736,17 @@
       "American (Traditional)",
       "Salad",
       "Chicken Wings"
+    ]
+  },
+  {
+    "name": "Waffle House",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0-TBYaANQOI2wLa4b_H1zQ/o.jpg",
+    "rating": 4.0,
+    "address": "3850 E Mulberry St, Fort Collins, CO 80524",
+    "categories": [
+      "Breakfast & Brunch",
+      "Diners",
+      "American (Traditional)"
     ]
   },
   {
@@ -3761,45 +3761,12 @@
     ]
   },
   {
-    "name": "Ft Collins Coffeehouse",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ejwPO-OeVKN7JobtwyQKCw/o.jpg",
+    "name": "Pueblo Viejo Mexican Restaurant Fort Collins",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LBSMMNlBdEC2ibmqrwVDdQ/o.jpg",
     "rating": 4.0,
-    "address": "3761 S Mason St, Fort Collins, CO 80525",
+    "address": "4630 Royal Vista Cir, Windsor, CO 80528",
     "categories": [
-      "Coffee & Tea",
-      "Breakfast & Brunch"
-    ]
-  },
-  {
-    "name": "Rocky Mountain Bagel Works",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wv3Mo-Dxm9XgwK9lnAq3Yw/o.jpg",
-    "rating": 3.5,
-    "address": "1111 W Elizabeth St, Fort Collins, CO 80521",
-    "categories": [
-      "Bagels",
-      "Breakfast & Brunch",
-      "Sandwiches"
-    ]
-  },
-  {
-    "name": "McDonald's",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DGgDp0M43hYvsP8iyYnFtg/o.jpg",
-    "rating": 2.5,
-    "address": "2401 S College Ave, Fort Collins, CO 80525",
-    "categories": [
-      "Fast Food",
-      "Burgers",
-      "Coffee & Tea"
-    ]
-  },
-  {
-    "name": "Fiona's Deli",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AoQkygRfGGl7zugNusTBtw/o.jpg",
-    "rating": 4.0,
-    "address": "1001 E Harmony Rd, Fort Collins, CO 80525",
-    "categories": [
-      "Delis",
-      "Bakeries"
+      "Mexican"
     ]
   },
   {
@@ -3814,12 +3781,24 @@
     ]
   },
   {
-    "name": "Pueblo Viejo Mexican Restaurant Fort Collins",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LBSMMNlBdEC2ibmqrwVDdQ/o.jpg",
+    "name": "Fiona's Deli",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AoQkygRfGGl7zugNusTBtw/o.jpg",
     "rating": 4.0,
-    "address": "4630 Royal Vista Cir, Windsor, CO 80528",
+    "address": "1001 E Harmony Rd, Fort Collins, CO 80525",
     "categories": [
-      "Mexican"
+      "Delis",
+      "Bakeries"
+    ]
+  },
+  {
+    "name": "McDonald's",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DGgDp0M43hYvsP8iyYnFtg/o.jpg",
+    "rating": 2.5,
+    "address": "2401 S College Ave, Fort Collins, CO 80525",
+    "categories": [
+      "Fast Food",
+      "Burgers",
+      "Coffee & Tea"
     ]
   },
   {
@@ -3833,6 +3812,16 @@
     ]
   },
   {
+    "name": "Ft Collins Coffeehouse",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ejwPO-OeVKN7JobtwyQKCw/o.jpg",
+    "rating": 4.0,
+    "address": "3761 S Mason St, Fort Collins, CO 80525",
+    "categories": [
+      "Coffee & Tea",
+      "Breakfast & Brunch"
+    ]
+  },
+  {
     "name": "Ta\u2019 Cabr\u00f3n Food Truck",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VZaSB5IjV14kYKGnPMiimQ/o.jpg",
     "rating": 4.0,
@@ -3840,6 +3829,17 @@
     "categories": [
       "Food Trucks",
       "Tacos"
+    ]
+  },
+  {
+    "name": "Rocky Mountain Bagel Works",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wv3Mo-Dxm9XgwK9lnAq3Yw/o.jpg",
+    "rating": 3.5,
+    "address": "1111 W Elizabeth St, Fort Collins, CO 80521",
+    "categories": [
+      "Bagels",
+      "Breakfast & Brunch",
+      "Sandwiches"
     ]
   },
   {
@@ -3863,15 +3863,6 @@
     ]
   },
   {
-    "name": "Fuzzy's Taco Shop",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RWoByHeVBmaPJ8PqNQvcvg/o.jpg",
-    "rating": 3.0,
-    "address": "1335 W Elizabeth, Ste 125, Fort Collins, CO 80521",
-    "categories": [
-      "Mexican"
-    ]
-  },
-  {
     "name": "Lulu Asian Bistro",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cTsfGv1J-Ea_zBYmiXq9ww/o.jpg",
     "rating": 3.5,
@@ -3880,6 +3871,15 @@
       "Asian Fusion",
       "Chinese",
       "Japanese"
+    ]
+  },
+  {
+    "name": "Fuzzy's Taco Shop",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RWoByHeVBmaPJ8PqNQvcvg/o.jpg",
+    "rating": 3.0,
+    "address": "1335 W Elizabeth, Ste 125, Fort Collins, CO 80521",
+    "categories": [
+      "Mexican"
     ]
   },
   {
@@ -3892,15 +3892,6 @@
     ]
   },
   {
-    "name": "College Cafe",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dOKGtjDYev37qype5SzM3g/o.jpg",
-    "rating": 3.0,
-    "address": "647 S College Ave, Fort Collins, CO 80524",
-    "categories": [
-      "Chinese"
-    ]
-  },
-  {
     "name": "DP Dough",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Gj-LXo46n9F8kn6fXelISA/o.jpg",
     "rating": 3.5,
@@ -3908,6 +3899,15 @@
     "categories": [
       "Pizza",
       "Fast Food"
+    ]
+  },
+  {
+    "name": "College Cafe",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dOKGtjDYev37qype5SzM3g/o.jpg",
+    "rating": 3.0,
+    "address": "647 S College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Chinese"
     ]
   },
   {
@@ -3942,15 +3942,6 @@
     ]
   },
   {
-    "name": "Thai Thai'M",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Aomj0Z0UbE-4yQEfBe_dww/o.jpg",
-    "rating": 4.0,
-    "address": "1360 E Eisenhower Blvd, Loveland, CO 80537",
-    "categories": [
-      "Thai"
-    ]
-  },
-  {
     "name": "Taco Bell",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uAykaKQa7z7gc7UzRGIzzw/o.jpg",
     "rating": 3.0,
@@ -3961,14 +3952,12 @@
     ]
   },
   {
-    "name": "Rush Bowls",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/h2vvH9Ve1w2WCUQAzuMqeg/o.jpg",
+    "name": "Thai Thai'M",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Aomj0Z0UbE-4yQEfBe_dww/o.jpg",
     "rating": 4.0,
-    "address": "1205 W Elizabeth St, Unit E, Fort Collins, CO 80521",
+    "address": "1360 E Eisenhower Blvd, Loveland, CO 80537",
     "categories": [
-      "Breakfast & Brunch",
-      "Juice Bars & Smoothies",
-      "Acai Bowls"
+      "Thai"
     ]
   },
   {
@@ -3992,33 +3981,12 @@
     ]
   },
   {
-    "name": "Spoons, Soups, Salads & Sandwiches",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/y1jfPxTZ0Iud9BVV6g_oYg/o.jpg",
-    "rating": 3.5,
-    "address": "320 South Link Ln, Fort Collins, CO 80524",
-    "categories": [
-      "Soup",
-      "Salad",
-      "Sandwiches"
-    ]
-  },
-  {
     "name": "Thai Pepper",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vWcTdvMSS0jC8_P5A39qyg/o.jpg",
     "rating": 3.5,
     "address": "109 E Laurel St, Fort Collins, CO 80524",
     "categories": [
       "Thai"
-    ]
-  },
-  {
-    "name": "Fuzzy's Taco Shop",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kNBnN3uucX7eR0MCDThBbQ/o.jpg",
-    "rating": 3.0,
-    "address": "2909 E Harmony, Ste 100, Fort Collins, CO 80528",
-    "categories": [
-      "Mexican",
-      "Bars"
     ]
   },
   {
@@ -4033,13 +4001,46 @@
     ]
   },
   {
-    "name": "Santa Elena\u2019s",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dTxRSGp2Bf6hWOhNRrnWBQ/o.jpg",
-    "rating": 5.0,
-    "address": "133 Remington St, Fort Collins, CO 80524",
+    "name": "Spoons, Soups, Salads & Sandwiches",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/y1jfPxTZ0Iud9BVV6g_oYg/o.jpg",
+    "rating": 3.5,
+    "address": "320 South Link Ln, Fort Collins, CO 80524",
+    "categories": [
+      "Soup",
+      "Salad",
+      "Sandwiches"
+    ]
+  },
+  {
+    "name": "Rush Bowls",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/h2vvH9Ve1w2WCUQAzuMqeg/o.jpg",
+    "rating": 4.0,
+    "address": "1205 W Elizabeth St, Unit E, Fort Collins, CO 80521",
+    "categories": [
+      "Breakfast & Brunch",
+      "Juice Bars & Smoothies",
+      "Acai Bowls"
+    ]
+  },
+  {
+    "name": "Fuzzy's Taco Shop",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kNBnN3uucX7eR0MCDThBbQ/o.jpg",
+    "rating": 3.0,
+    "address": "2909 E Harmony, Ste 100, Fort Collins, CO 80528",
     "categories": [
       "Mexican",
-      "Food Trucks"
+      "Bars"
+    ]
+  },
+  {
+    "name": "Buffalo Wild Wings",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uJxhHiQIOPjuOe8NTpRnOw/o.jpg",
+    "rating": 2.0,
+    "address": "150 East Harmony Rd, 2A, Fort Collins, CO 80525",
+    "categories": [
+      "Sports Bars",
+      "Chicken Wings",
+      "American (Traditional)"
     ]
   },
   {
@@ -4054,14 +4055,13 @@
     ]
   },
   {
-    "name": "Buffalo Wild Wings",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uJxhHiQIOPjuOe8NTpRnOw/o.jpg",
-    "rating": 2.0,
-    "address": "150 East Harmony Rd, 2A, Fort Collins, CO 80525",
+    "name": "Santa Elena\u2019s",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dTxRSGp2Bf6hWOhNRrnWBQ/o.jpg",
+    "rating": 5.0,
+    "address": "133 Remington St, Fort Collins, CO 80524",
     "categories": [
-      "Sports Bars",
-      "Chicken Wings",
-      "American (Traditional)"
+      "Mexican",
+      "Food Trucks"
     ]
   },
   {
@@ -4085,15 +4085,6 @@
     ]
   },
   {
-    "name": "China Wok",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F733cYJsRAcUwXlBhyekEw/o.jpg",
-    "rating": 3.0,
-    "address": "1514 E Harmony Rd, Fort Collins, CO 80525",
-    "categories": [
-      "Chinese"
-    ]
-  },
-  {
     "name": "Crisp & Green",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_bqQ6152kgiBYVNLs0wVcw/o.jpg",
     "rating": 5.0,
@@ -4102,6 +4093,15 @@
       "Salad",
       "Juice Bars & Smoothies",
       "Acai Bowls"
+    ]
+  },
+  {
+    "name": "China Wok",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F733cYJsRAcUwXlBhyekEw/o.jpg",
+    "rating": 3.0,
+    "address": "1514 E Harmony Rd, Fort Collins, CO 80525",
+    "categories": [
+      "Chinese"
     ]
   },
   {
@@ -4124,32 +4124,12 @@
     ]
   },
   {
-    "name": "Gib's Bagel",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/COheTgBCkPiAFb4iCMcMWA/o.jpg",
-    "rating": 3.5,
-    "address": "1112 Oakridge Dr, Fort Collins, CO 80525",
-    "categories": [
-      "Delis",
-      "Bagels"
-    ]
-  },
-  {
     "name": "Roberto's Salsa & Sauces",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vDelZZDXnEnUhSq_eV5ezg/o.jpg",
     "rating": 5.0,
     "address": "2121 S College Ave, Fort Collins, CO 80525",
     "categories": [
       "Mexican"
-    ]
-  },
-  {
-    "name": "The Goodness Food Truck",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2H8lmLiDAukdmPMSQ_iUmA/o.jpg",
-    "rating": 3.5,
-    "address": "Fort Collins, CO 80524",
-    "categories": [
-      "Food Trucks",
-      "American (Traditional)"
     ]
   },
   {
@@ -4164,12 +4144,13 @@
     ]
   },
   {
-    "name": "Palomino Mexican Restaurant",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RLikqxyYvnYxWJ4wFNCaSQ/o.jpg",
-    "rating": 3.0,
-    "address": "6190 Crossroads Blvd, Loveland, CO 80538",
+    "name": "The Goodness Food Truck",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2H8lmLiDAukdmPMSQ_iUmA/o.jpg",
+    "rating": 3.5,
+    "address": "Fort Collins, CO 80524",
     "categories": [
-      "Mexican"
+      "Food Trucks",
+      "American (Traditional)"
     ]
   },
   {
@@ -4183,14 +4164,12 @@
     ]
   },
   {
-    "name": "Jason's Deli",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sn5B21jnDhxq0MEcf0lexw/o.jpg",
-    "rating": 3.5,
-    "address": "1538 E Harmony Rd, Fort Collins, CO 80525",
+    "name": "Palomino Mexican Restaurant",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RLikqxyYvnYxWJ4wFNCaSQ/o.jpg",
+    "rating": 3.0,
+    "address": "6190 Crossroads Blvd, Loveland, CO 80538",
     "categories": [
-      "Delis",
-      "Sandwiches",
-      "Salad"
+      "Mexican"
     ]
   },
   {
@@ -4202,6 +4181,17 @@
       "Breakfast & Brunch",
       "American (Traditional)",
       "Burgers"
+    ]
+  },
+  {
+    "name": "Jason's Deli",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sn5B21jnDhxq0MEcf0lexw/o.jpg",
+    "rating": 3.5,
+    "address": "1538 E Harmony Rd, Fort Collins, CO 80525",
+    "categories": [
+      "Delis",
+      "Sandwiches",
+      "Salad"
     ]
   },
   {
@@ -4225,22 +4215,22 @@
     ]
   },
   {
+    "name": "Gib's Bagel",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/COheTgBCkPiAFb4iCMcMWA/o.jpg",
+    "rating": 3.5,
+    "address": "1112 Oakridge Dr, Fort Collins, CO 80525",
+    "categories": [
+      "Delis",
+      "Bagels"
+    ]
+  },
+  {
     "name": "Slice \u2018N Roll",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vQSvWWrS9FLn9BMp9x0KBA/o.jpg",
     "rating": 3.5,
     "address": "141 E 4th St, Loveland, CO 80537",
     "categories": [
       "Pizza"
-    ]
-  },
-  {
-    "name": "Panda Express",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sqNj65WjTdlWQCq-2Rl0JQ/o.jpg",
-    "rating": 2.5,
-    "address": "4600 South Mason St., Fort Collins, CO 80525",
-    "categories": [
-      "Chinese",
-      "Fast Food"
     ]
   },
   {
@@ -4264,14 +4254,13 @@
     ]
   },
   {
-    "name": "Rush Bowls",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4k13OjG7ZM1RFzAUqrNEZA/o.jpg",
-    "rating": 4.0,
-    "address": "3581 E Harmony Rd, Fort Collins, CO 80528",
+    "name": "Panda Express",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sqNj65WjTdlWQCq-2Rl0JQ/o.jpg",
+    "rating": 2.5,
+    "address": "4600 South Mason St., Fort Collins, CO 80525",
     "categories": [
-      "Acai Bowls",
-      "Juice Bars & Smoothies",
-      "Breakfast & Brunch"
+      "Chinese",
+      "Fast Food"
     ]
   },
   {
@@ -4295,6 +4284,17 @@
     ]
   },
   {
+    "name": "Rush Bowls",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4k13OjG7ZM1RFzAUqrNEZA/o.jpg",
+    "rating": 4.0,
+    "address": "3581 E Harmony Rd, Fort Collins, CO 80528",
+    "categories": [
+      "Acai Bowls",
+      "Juice Bars & Smoothies",
+      "Breakfast & Brunch"
+    ]
+  },
+  {
     "name": "Taste of Philly",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zKkWAg0Ja6VDymNzNzJzyA/o.jpg",
     "rating": 3.5,
@@ -4302,6 +4302,24 @@
     "categories": [
       "Sandwiches",
       "Cheesesteaks"
+    ]
+  },
+  {
+    "name": "Morgan's Grind",
+    "image_url": "",
+    "rating": 3.5,
+    "address": "1201 Center Avenue Mall, 1019 Campus Delivery, Fort Collins, CO 80523",
+    "categories": [
+      "Cafes"
+    ]
+  },
+  {
+    "name": "Sandys",
+    "image_url": "",
+    "rating": 5.0,
+    "address": "1037 Conifer St, Fort Collins, CO 80524",
+    "categories": [
+      "American (Traditional)"
     ]
   },
   {
@@ -4313,15 +4331,6 @@
       "Asian Fusion",
       "Gluten-Free",
       "Japanese"
-    ]
-  },
-  {
-    "name": "Morgan's Grind",
-    "image_url": "",
-    "rating": 3.5,
-    "address": "1201 Center Avenue Mall, 1019 Campus Delivery, Fort Collins, CO 80523",
-    "categories": [
-      "Cafes"
     ]
   },
   {
@@ -4345,42 +4354,12 @@
     ]
   },
   {
-    "name": "Sandys",
-    "image_url": "",
-    "rating": 5.0,
-    "address": "1037 Conifer St, Fort Collins, CO 80524",
-    "categories": [
-      "American (Traditional)"
-    ]
-  },
-  {
-    "name": "Panera Bread",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xPZIvrgEbsjst8hKtExNnQ/o.jpg",
-    "rating": 2.5,
-    "address": "3700 South College Avenue, Fort Collins, CO 80525",
-    "categories": [
-      "Sandwiches",
-      "Salad",
-      "Soup"
-    ]
-  },
-  {
     "name": "Maggies Tacos",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/noTBu7kPx_mgvEzBqTMajA/o.jpg",
     "rating": 4.5,
     "address": "1200 N College Ave, Fort Collins, CO 80524",
     "categories": [
       "Mexican",
-      "Food Trucks"
-    ]
-  },
-  {
-    "name": "El Mundo De Las Garnachas",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FO20Sz_Ov0jSUqGlU7mM0Q/o.jpg",
-    "rating": 5.0,
-    "address": "1125 W Eisenhower Blvd, Loveland, CO 80537",
-    "categories": [
-      "Tacos",
       "Food Trucks"
     ]
   },
@@ -4396,6 +4375,16 @@
     ]
   },
   {
+    "name": "El Mundo De Las Garnachas",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FO20Sz_Ov0jSUqGlU7mM0Q/o.jpg",
+    "rating": 5.0,
+    "address": "1125 W Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Tacos",
+      "Food Trucks"
+    ]
+  },
+  {
     "name": "Garbanzo Mediterranean Fresh",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gVYSK3JdhimqYE-bqQQPqA/o.jpg",
     "rating": 5.0,
@@ -4404,6 +4393,26 @@
       "Mediterranean",
       "Greek",
       "Fast Food"
+    ]
+  },
+  {
+    "name": "Panera Bread",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xPZIvrgEbsjst8hKtExNnQ/o.jpg",
+    "rating": 2.5,
+    "address": "3700 South College Avenue, Fort Collins, CO 80525",
+    "categories": [
+      "Sandwiches",
+      "Salad",
+      "Soup"
+    ]
+  },
+  {
+    "name": "Bangkok89",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uwE_iQ_g4Ab9OzlXk3HrIw/o.jpg",
+    "rating": 4.0,
+    "address": "216 E 29th St, Loveland, CO 80538",
+    "categories": [
+      "Thai"
     ]
   },
   {
@@ -4418,15 +4427,6 @@
     ]
   },
   {
-    "name": "Bangkok89",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uwE_iQ_g4Ab9OzlXk3HrIw/o.jpg",
-    "rating": 4.0,
-    "address": "216 E 29th St, Loveland, CO 80538",
-    "categories": [
-      "Thai"
-    ]
-  },
-  {
     "name": "Dairy Queen Store",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/A4Ofk8PGyphvR5oH5GyY2Q/o.jpg",
     "rating": 2.0,
@@ -4435,6 +4435,15 @@
       "Ice Cream & Frozen Yogurt",
       "Fast Food",
       "Burgers"
+    ]
+  },
+  {
+    "name": "Cafe Rio Mexican Grill",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xobon75jL4g7-_mqLUfmew/o.jpg",
+    "rating": 2.5,
+    "address": "4414 S College Ave, Fort Collins, CO 80525",
+    "categories": [
+      "Mexican"
     ]
   },
   {
@@ -4448,15 +4457,6 @@
     ]
   },
   {
-    "name": "Cafe Rio Mexican Grill",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xobon75jL4g7-_mqLUfmew/o.jpg",
-    "rating": 2.5,
-    "address": "4414 S College Ave, Fort Collins, CO 80525",
-    "categories": [
-      "Mexican"
-    ]
-  },
-  {
     "name": "Loveland Breakfast Club",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wfc3p0GcDjTRtLz6MVV45g/o.jpg",
     "rating": 3.5,
@@ -4464,27 +4464,6 @@
     "categories": [
       "Coffee & Tea",
       "Breakfast & Brunch"
-    ]
-  },
-  {
-    "name": "Cups",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CWnPvIz2NVbkKeAuBqBH_A/o.jpg",
-    "rating": 4.0,
-    "address": "1033 S Taft Hill Rd, Fort Collins, CO 80521",
-    "categories": [
-      "Coffee & Tea",
-      "Sandwiches",
-      "Breakfast & Brunch"
-    ]
-  },
-  {
-    "name": "Serious Texas Bar-B-Q",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/12IwnZYFrWgpCpqyS5xWKQ/o.jpg",
-    "rating": 3.5,
-    "address": "201 W 71st St, Loveland, CO 80538",
-    "categories": [
-      "Barbeque",
-      "Sandwiches"
     ]
   },
   {
@@ -4499,12 +4478,24 @@
     ]
   },
   {
-    "name": "Asian Chef & Jasmine Garden",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xRAlxpnNLHUqQ4jUAIyHrQ/o.jpg",
-    "rating": 3.0,
-    "address": "1612 N College Ave, Ste A, Fort Collins, CO 80524",
+    "name": "Serious Texas Bar-B-Q",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/12IwnZYFrWgpCpqyS5xWKQ/o.jpg",
+    "rating": 3.5,
+    "address": "201 W 71st St, Loveland, CO 80538",
     "categories": [
-      "Chinese"
+      "Barbeque",
+      "Sandwiches"
+    ]
+  },
+  {
+    "name": "Cups",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CWnPvIz2NVbkKeAuBqBH_A/o.jpg",
+    "rating": 4.0,
+    "address": "1033 S Taft Hill Rd, Fort Collins, CO 80521",
+    "categories": [
+      "Coffee & Tea",
+      "Sandwiches",
+      "Breakfast & Brunch"
     ]
   },
   {
@@ -4515,6 +4506,25 @@
     "categories": [
       "Juice Bars & Smoothies",
       "Sandwiches"
+    ]
+  },
+  {
+    "name": "Asian Chef & Jasmine Garden",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xRAlxpnNLHUqQ4jUAIyHrQ/o.jpg",
+    "rating": 3.0,
+    "address": "1612 N College Ave, Ste A, Fort Collins, CO 80524",
+    "categories": [
+      "Chinese"
+    ]
+  },
+  {
+    "name": "Taco Bell",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NUcMXsZeQ8nm_81SVhHDDQ/o.jpg",
+    "rating": 2.0,
+    "address": "1530 S College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Mexican",
+      "Fast Food"
     ]
   },
   {
@@ -4529,13 +4539,12 @@
     ]
   },
   {
-    "name": "Taco Bell",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NUcMXsZeQ8nm_81SVhHDDQ/o.jpg",
-    "rating": 2.0,
-    "address": "1530 S College Ave, Fort Collins, CO 80524",
+    "name": "Wingstop",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vKAM0IHaXtxJ8LUTuSxO5w/o.jpg",
+    "rating": 1.0,
+    "address": "4631 S Mason St, Ste B3, Fort Collins, CO 80525",
     "categories": [
-      "Mexican",
-      "Fast Food"
+      "Chicken Wings"
     ]
   },
   {
@@ -4546,15 +4555,6 @@
     "categories": [
       "Pizza",
       "Italian"
-    ]
-  },
-  {
-    "name": "Wingstop",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vKAM0IHaXtxJ8LUTuSxO5w/o.jpg",
-    "rating": 1.0,
-    "address": "4631 S Mason St, Ste B3, Fort Collins, CO 80525",
-    "categories": [
-      "Chicken Wings"
     ]
   },
   {
@@ -4587,17 +4587,6 @@
     ]
   },
   {
-    "name": "Cracker Barrel Old Country Store",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MZo9HjNrXz3a3fOQyC6Ung/o.jpg",
-    "rating": 3.0,
-    "address": "5800 McWhinney Blvd, Loveland, CO 80538",
-    "categories": [
-      "American (Traditional)",
-      "Breakfast & Brunch",
-      "Southern"
-    ]
-  },
-  {
     "name": "Trail Head Tavern",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NHQfhvVrhPL6MgKfEFnb5w/o.jpg",
     "rating": 3.5,
@@ -4605,17 +4594,6 @@
     "categories": [
       "Bars",
       "American (New)"
-    ]
-  },
-  {
-    "name": "Blackjack Pizza & Salads",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sTNNh7PyzCNe5SdMH4j6Yw/o.jpg",
-    "rating": 2.0,
-    "address": "4206 S College Ave, Ste 107, Fort Collins, CO 80525",
-    "categories": [
-      "Pizza",
-      "Salad",
-      "Chicken Wings"
     ]
   },
   {
@@ -4648,12 +4626,25 @@
     ]
   },
   {
-    "name": "Deli-Works",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6aqBlHmbIU78EV2HoA43VQ/o.jpg",
-    "rating": 4.5,
-    "address": "6001 S College Ave, Fort Collins, CO 80525",
+    "name": "Cracker Barrel Old Country Store",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MZo9HjNrXz3a3fOQyC6Ung/o.jpg",
+    "rating": 3.0,
+    "address": "5800 McWhinney Blvd, Loveland, CO 80538",
     "categories": [
-      "Delis"
+      "American (Traditional)",
+      "Breakfast & Brunch",
+      "Southern"
+    ]
+  },
+  {
+    "name": "Blackjack Pizza & Salads",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sTNNh7PyzCNe5SdMH4j6Yw/o.jpg",
+    "rating": 2.0,
+    "address": "4206 S College Ave, Ste 107, Fort Collins, CO 80525",
+    "categories": [
+      "Pizza",
+      "Salad",
+      "Chicken Wings"
     ]
   },
   {
@@ -4695,6 +4686,26 @@
     ]
   },
   {
+    "name": "Deli-Works",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6aqBlHmbIU78EV2HoA43VQ/o.jpg",
+    "rating": 4.5,
+    "address": "6001 S College Ave, Fort Collins, CO 80525",
+    "categories": [
+      "Delis"
+    ]
+  },
+  {
+    "name": "Main Event - Windsor",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D8ZEWi3RvOmF5eD4dmQulw/o.jpg",
+    "rating": 3.0,
+    "address": "4455 Fairgrounds Ave, Windsor, CO 80550",
+    "categories": [
+      "Laser Tag",
+      "Bowling",
+      "American (New)"
+    ]
+  },
+  {
     "name": "Marchio's Grill",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jgpwOBazjzhSMZKcQF7dxw/o.jpg",
     "rating": 4.5,
@@ -4712,17 +4723,6 @@
     "categories": [
       "Mexican",
       "Fast Food"
-    ]
-  },
-  {
-    "name": "Main Event - Windsor",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D8ZEWi3RvOmF5eD4dmQulw/o.jpg",
-    "rating": 3.0,
-    "address": "4455 Fairgrounds Ave, Windsor, CO 80550",
-    "categories": [
-      "Laser Tag",
-      "Bowling",
-      "American (New)"
     ]
   },
   {
@@ -4758,14 +4758,33 @@
     ]
   },
   {
-    "name": "Firehouse Subs",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IZvKWiqkkTZfeI4q21ihIg/o.jpg",
-    "rating": 4.0,
-    "address": "1856 N College Ave, Ste 130, Fort Collins, CO 80524",
+    "name": "Great Plates",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nBLTRC0moic6cxsqkGjNfA/o.jpg",
+    "rating": 5.0,
+    "address": "19 Old Town Sq, Ste 230, Fort Collins Downtown Business Association, Fort Collins, CO 80528",
     "categories": [
-      "Sandwiches",
+      "American (New)"
+    ]
+  },
+  {
+    "name": "KFC",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DPTXZE3lDAkw-Z_8jEgzvw/o.jpg",
+    "rating": 1.0,
+    "address": "4001 S College Ave, Fort Collins, CO 80525",
+    "categories": [
       "Fast Food",
-      "Delis"
+      "Chicken Wings",
+      "Chicken Shop"
+    ]
+  },
+  {
+    "name": "Bigs Meat Wagon & BBQ",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7Z5DUS3fBHCm0RYmCtZTUw/o.jpg",
+    "rating": 3.5,
+    "address": "Fort Collins, CO 80525",
+    "categories": [
+      "Food Trucks",
+      "Barbeque"
     ]
   },
   {
@@ -4789,26 +4808,6 @@
     ]
   },
   {
-    "name": "Great Plates",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nBLTRC0moic6cxsqkGjNfA/o.jpg",
-    "rating": 5.0,
-    "address": "19 Old Town Sq, Ste 230, Fort Collins Downtown Business Association, Fort Collins, CO 80528",
-    "categories": [
-      "American (New)"
-    ]
-  },
-  {
-    "name": "KFC",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DPTXZE3lDAkw-Z_8jEgzvw/o.jpg",
-    "rating": 1.0,
-    "address": "4001 S College Ave, Fort Collins, CO 80525",
-    "categories": [
-      "Fast Food",
-      "Chicken Wings",
-      "Chicken Shop"
-    ]
-  },
-  {
     "name": "Mugs at CSU",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vh6btAaRy5dnLbONVuTfZg/o.jpg",
     "rating": 4.5,
@@ -4820,13 +4819,14 @@
     ]
   },
   {
-    "name": "Bigs Meat Wagon & BBQ",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7Z5DUS3fBHCm0RYmCtZTUw/o.jpg",
-    "rating": 3.5,
-    "address": "Fort Collins, CO 80525",
+    "name": "Firehouse Subs",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IZvKWiqkkTZfeI4q21ihIg/o.jpg",
+    "rating": 4.0,
+    "address": "1856 N College Ave, Ste 130, Fort Collins, CO 80524",
     "categories": [
-      "Food Trucks",
-      "Barbeque"
+      "Sandwiches",
+      "Fast Food",
+      "Delis"
     ]
   },
   {
@@ -4846,16 +4846,6 @@
     "categories": [
       "Cajun/Creole",
       "Southern"
-    ]
-  },
-  {
-    "name": "Arby's",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jSKLoeWShIkZ8_sAcr7jSA/o.jpg",
-    "rating": 2.5,
-    "address": "3460 S College Ave, Fort Collins, CO 80525",
-    "categories": [
-      "Fast Food",
-      "Sandwiches"
     ]
   },
   {
@@ -4879,6 +4869,16 @@
     ]
   },
   {
+    "name": "Arby's",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jSKLoeWShIkZ8_sAcr7jSA/o.jpg",
+    "rating": 2.5,
+    "address": "3460 S College Ave, Fort Collins, CO 80525",
+    "categories": [
+      "Fast Food",
+      "Sandwiches"
+    ]
+  },
+  {
     "name": "Mex O\u2019Malley\u2019s",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/J1eZSqtMhL9NOd_a1POqyA/o.jpg",
     "rating": 3.5,
@@ -4887,15 +4887,6 @@
       "Mexican",
       "Pubs",
       "American (Traditional)"
-    ]
-  },
-  {
-    "name": "Which Wich",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HpjJesShUj7RFoURJ-KYKw/o.jpg",
-    "rating": 3.5,
-    "address": "2842 Council Tree Ave, Fort Collins, CO 80525",
-    "categories": [
-      "Sandwiches"
     ]
   },
   {
@@ -4910,12 +4901,12 @@
     ]
   },
   {
-    "name": "Pelican Jo's Pizzaria",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7ITKHAS2QYra24iHxtMjUQ/o.jpg",
+    "name": "Which Wich",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HpjJesShUj7RFoURJ-KYKw/o.jpg",
     "rating": 3.5,
-    "address": "263 Eastman Park Dr, Windsor, CO 80550",
+    "address": "2842 Council Tree Ave, Fort Collins, CO 80525",
     "categories": [
-      "Pizza"
+      "Sandwiches"
     ]
   },
   {
@@ -4926,6 +4917,24 @@
     "categories": [
       "Food Trucks",
       "Hot Dogs"
+    ]
+  },
+  {
+    "name": "Pelican Jo's Pizzaria",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7ITKHAS2QYra24iHxtMjUQ/o.jpg",
+    "rating": 3.5,
+    "address": "263 Eastman Park Dr, Windsor, CO 80550",
+    "categories": [
+      "Pizza"
+    ]
+  },
+  {
+    "name": "Ever Open Cafe & Gas Stop",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ve6FcbD7NbQboY3Hu9RSlQ/o.jpg",
+    "rating": 3.5,
+    "address": "1422 N College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "American (Traditional)"
     ]
   },
   {
@@ -4951,12 +4960,13 @@
     ]
   },
   {
-    "name": "Ever Open Cafe & Gas Stop",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ve6FcbD7NbQboY3Hu9RSlQ/o.jpg",
-    "rating": 3.5,
-    "address": "1422 N College Ave, Fort Collins, CO 80524",
+    "name": "Wendy's",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/peD3vkEUGNXoOdu-zGtNKg/o.jpg",
+    "rating": 1.5,
+    "address": "3710 S College Ave, Fort Collins, CO 80525",
     "categories": [
-      "American (Traditional)"
+      "Fast Food",
+      "Burgers"
     ]
   },
   {
@@ -4970,26 +4980,6 @@
     ]
   },
   {
-    "name": "GFL Pizza",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ig0vy4VqmiixuzLyrEotOg/o.jpg",
-    "rating": 5.0,
-    "address": "2707 W Eisenhower Blvd, Loveland, CO 80537",
-    "categories": [
-      "Food Trucks",
-      "Pizza"
-    ]
-  },
-  {
-    "name": "Wendy's",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/peD3vkEUGNXoOdu-zGtNKg/o.jpg",
-    "rating": 1.5,
-    "address": "3710 S College Ave, Fort Collins, CO 80525",
-    "categories": [
-      "Fast Food",
-      "Burgers"
-    ]
-  },
-  {
     "name": "Papa Murphy's",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ldAIT-iHQLKHRCtmUNm1_Q/o.jpg",
     "rating": 3.5,
@@ -4999,14 +4989,13 @@
     ]
   },
   {
-    "name": "Dairy Delite",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Aux3WK4-OtWEjR5WbePiXw/o.jpg",
-    "rating": 3.5,
-    "address": "3080 W Eisenhower Blvd, Loveland, CO 80537",
+    "name": "GFL Pizza",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ig0vy4VqmiixuzLyrEotOg/o.jpg",
+    "rating": 5.0,
+    "address": "2707 W Eisenhower Blvd, Loveland, CO 80537",
     "categories": [
-      "Ice Cream & Frozen Yogurt",
-      "Burgers",
-      "Hot Dogs"
+      "Food Trucks",
+      "Pizza"
     ]
   },
   {
@@ -5018,6 +5007,17 @@
       "Coffee & Tea",
       "Food Stands",
       "Juice Bars & Smoothies"
+    ]
+  },
+  {
+    "name": "Dairy Delite",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Aux3WK4-OtWEjR5WbePiXw/o.jpg",
+    "rating": 3.5,
+    "address": "3080 W Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Ice Cream & Frozen Yogurt",
+      "Burgers",
+      "Hot Dogs"
     ]
   },
   {
@@ -5042,15 +5042,6 @@
     ]
   },
   {
-    "name": "Cosmo's Pizza",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/l5Npq2XJjlKuUrSc4S9LIg/o.jpg",
-    "rating": 3.0,
-    "address": "1401 W Elizabeth, Fort Collins, CO 80521",
-    "categories": [
-      "Pizza"
-    ]
-  },
-  {
     "name": "Ramskellar Pub & Grub",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wa-4ATXPzqIgHo7xQYXumw/o.jpg",
     "rating": 4.5,
@@ -5058,6 +5049,15 @@
     "categories": [
       "Cafes",
       "Beer Bar"
+    ]
+  },
+  {
+    "name": "Cosmo's Pizza",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/l5Npq2XJjlKuUrSc4S9LIg/o.jpg",
+    "rating": 3.0,
+    "address": "1401 W Elizabeth, Fort Collins, CO 80521",
+    "categories": [
+      "Pizza"
     ]
   },
   {
@@ -5100,22 +5100,21 @@
     ]
   },
   {
-    "name": "Chipotle Mexican Grill",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b4nJWsRrQlhyPT_eSmMHZw/o.jpg",
-    "rating": 2.5,
-    "address": "649 S College Ave, Ste A, Fort Collins, CO 80525",
-    "categories": [
-      "Mexican",
-      "Fast Food"
-    ]
-  },
-  {
     "name": "Casa Real",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6uQPjMfdQr8D1yLqGFFgzA/o.jpg",
     "rating": 3.5,
     "address": "243 E 29th St, Loveland, CO 80538",
     "categories": [
       "Mexican"
+    ]
+  },
+  {
+    "name": "MOD Pizza",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dqLpBbTrh_-1WK6yaWVTDQ/o.jpg",
+    "rating": 4.0,
+    "address": "4938 Thompson Pkwy, Johnstown, CO 80534",
+    "categories": [
+      "Pizza"
     ]
   },
   {
@@ -5130,21 +5129,22 @@
     ]
   },
   {
-    "name": "MOD Pizza",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dqLpBbTrh_-1WK6yaWVTDQ/o.jpg",
-    "rating": 4.0,
-    "address": "4938 Thompson Pkwy, Johnstown, CO 80534",
+    "name": "Chipotle Mexican Grill",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b4nJWsRrQlhyPT_eSmMHZw/o.jpg",
+    "rating": 2.5,
+    "address": "649 S College Ave, Ste A, Fort Collins, CO 80525",
     "categories": [
-      "Pizza"
+      "Mexican",
+      "Fast Food"
     ]
   },
   {
-    "name": "Burger King",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6M0kJUTS8-FXLFI7svVyvQ/o.jpg",
-    "rating": 1.5,
-    "address": "2507 S Shields St, Fort Collins, CO 80526",
+    "name": "Chipotle Mexican Grill",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bG2ECRZAAUzBzq_xbBst0Q/o.jpg",
+    "rating": 3.5,
+    "address": "2120 E Harmony Rd, Ste 107, Fort Collins, CO 80528",
     "categories": [
-      "Burgers",
+      "Mexican",
       "Fast Food"
     ]
   },
@@ -5159,22 +5159,22 @@
     ]
   },
   {
-    "name": "Chipotle Mexican Grill",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bG2ECRZAAUzBzq_xbBst0Q/o.jpg",
-    "rating": 3.5,
-    "address": "2120 E Harmony Rd, Ste 107, Fort Collins, CO 80528",
+    "name": "Office Lounge",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ztb0WbacNxISKrw5vtHqbg/o.jpg",
+    "rating": 4.0,
+    "address": "1710 W Eisenhower Blvd, Loveland, CO 80537",
     "categories": [
-      "Mexican",
-      "Fast Food"
+      "Pubs",
+      "American (Traditional)"
     ]
   },
   {
-    "name": "QDOBA Mexican Eats",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6EHF7iMeVUtWz3oLAW1TUw/o.jpg",
-    "rating": 3.0,
-    "address": "2638 S Timberline Rd, Ste 100, Fort Collins, CO 80525",
+    "name": "Burger King",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6M0kJUTS8-FXLFI7svVyvQ/o.jpg",
+    "rating": 1.5,
+    "address": "2507 S Shields St, Fort Collins, CO 80526",
     "categories": [
-      "Mexican",
+      "Burgers",
       "Fast Food"
     ]
   },
@@ -5188,33 +5188,12 @@
     ]
   },
   {
-    "name": "Mechitas Food Truck",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WsN8yQvz6Ajq6eCyHmvgIA/o.jpg",
-    "rating": 0.0,
-    "address": "3602 Manhattan Ave, Fort Collins, CO 80526",
+    "name": "QDOBA Mexican Eats",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6EHF7iMeVUtWz3oLAW1TUw/o.jpg",
+    "rating": 3.0,
+    "address": "2638 S Timberline Rd, Ste 100, Fort Collins, CO 80525",
     "categories": [
       "Mexican",
-      "Food Trucks"
-    ]
-  },
-  {
-    "name": "Office Lounge",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ztb0WbacNxISKrw5vtHqbg/o.jpg",
-    "rating": 4.0,
-    "address": "1710 W Eisenhower Blvd, Loveland, CO 80537",
-    "categories": [
-      "Pubs",
-      "American (Traditional)"
-    ]
-  },
-  {
-    "name": "Jimmy John's",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NjwTZgYVPSpMRj2Yep0Rng/o.jpg",
-    "rating": 3.0,
-    "address": "1005 S Lemay Ave, Fort Collins, CO 80524",
-    "categories": [
-      "Sandwiches",
-      "Delis",
       "Fast Food"
     ]
   },
@@ -5240,6 +5219,16 @@
     ]
   },
   {
+    "name": "Mechitas Food Truck",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WsN8yQvz6Ajq6eCyHmvgIA/o.jpg",
+    "rating": 0.0,
+    "address": "3602 Manhattan Ave, Fort Collins, CO 80526",
+    "categories": [
+      "Mexican",
+      "Food Trucks"
+    ]
+  },
+  {
     "name": "Runza",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_A30QLrpejJmjd2sVr38TQ/o.jpg",
     "rating": 4.0,
@@ -5258,32 +5247,14 @@
     ]
   },
   {
-    "name": "Five Guys",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Amhy5xjhlEethZp9O8KtrA/o.jpg",
-    "rating": 3.5,
-    "address": "2860 E Harmony Rd, Fort Collins, CO 80528",
+    "name": "Jimmy John's",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NjwTZgYVPSpMRj2Yep0Rng/o.jpg",
+    "rating": 3.0,
+    "address": "1005 S Lemay Ave, Fort Collins, CO 80524",
     "categories": [
-      "Burgers",
+      "Sandwiches",
+      "Delis",
       "Fast Food"
-    ]
-  },
-  {
-    "name": "Taco Bell",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iWyPui3n0nk1SR2sNOajOg/o.jpg",
-    "rating": 1.5,
-    "address": "4100 S. College Ave., Fort Collins, CO 80525",
-    "categories": [
-      "Mexican",
-      "Fast Food"
-    ]
-  },
-  {
-    "name": "Wingstop",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/m5T59MoMwPAjfnNhTmlzzg/o.jpg",
-    "rating": 2.5,
-    "address": "244 N College Ave, Ste 135, Fort Collins, CO 80524",
-    "categories": [
-      "Chicken Wings"
     ]
   },
   {
@@ -5297,22 +5268,41 @@
     ]
   },
   {
+    "name": "Wingstop",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/m5T59MoMwPAjfnNhTmlzzg/o.jpg",
+    "rating": 2.5,
+    "address": "244 N College Ave, Ste 135, Fort Collins, CO 80524",
+    "categories": [
+      "Chicken Wings"
+    ]
+  },
+  {
+    "name": "Taco Bell",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iWyPui3n0nk1SR2sNOajOg/o.jpg",
+    "rating": 1.5,
+    "address": "4100 S. College Ave., Fort Collins, CO 80525",
+    "categories": [
+      "Mexican",
+      "Fast Food"
+    ]
+  },
+  {
+    "name": "Five Guys",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Amhy5xjhlEethZp9O8KtrA/o.jpg",
+    "rating": 3.5,
+    "address": "2860 E Harmony Rd, Fort Collins, CO 80528",
+    "categories": [
+      "Burgers",
+      "Fast Food"
+    ]
+  },
+  {
     "name": "Eggceptional Concepts",
     "image_url": "",
     "rating": 0.0,
     "address": "2550 Stover St, Unit B101, Fort Collins, CO 80525",
     "categories": [
       "Restaurants"
-    ]
-  },
-  {
-    "name": "Subway",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_s1JEl4_Dese62SpUJqfKQ/o.jpg",
-    "rating": 2.0,
-    "address": "3645 S College Ave, Ste 101, Fort Collins, CO 80525",
-    "categories": [
-      "Sandwiches",
-      "Fast Food"
     ]
   },
   {
@@ -5337,13 +5327,12 @@
     ]
   },
   {
-    "name": "Freddy's Frozen Custard & Steakburgers",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IXJDV9EpPhiZeMkDjcwMDA/o.jpg",
-    "rating": 2.5,
-    "address": "4805 Weitzel St, Timnath, CO 80547",
+    "name": "Subway",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_s1JEl4_Dese62SpUJqfKQ/o.jpg",
+    "rating": 2.0,
+    "address": "3645 S College Ave, Ste 101, Fort Collins, CO 80525",
     "categories": [
-      "Burgers",
-      "Ice Cream & Frozen Yogurt",
+      "Sandwiches",
       "Fast Food"
     ]
   },
@@ -5357,14 +5346,14 @@
     ]
   },
   {
-    "name": "Firehouse Subs",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YYX6qYHbuSHPHbeBQQv4qA/o.jpg",
-    "rating": 3.5,
-    "address": "2120 E Harmony Rd, Ste 101, Fort Collins, CO 80528",
+    "name": "Freddy's Frozen Custard & Steakburgers",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IXJDV9EpPhiZeMkDjcwMDA/o.jpg",
+    "rating": 2.5,
+    "address": "4805 Weitzel St, Timnath, CO 80547",
     "categories": [
-      "Sandwiches",
-      "Fast Food",
-      "Delis"
+      "Burgers",
+      "Ice Cream & Frozen Yogurt",
+      "Fast Food"
     ]
   },
   {
@@ -5401,6 +5390,17 @@
     ]
   },
   {
+    "name": "Firehouse Subs",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YYX6qYHbuSHPHbeBQQv4qA/o.jpg",
+    "rating": 3.5,
+    "address": "2120 E Harmony Rd, Ste 101, Fort Collins, CO 80528",
+    "categories": [
+      "Sandwiches",
+      "Fast Food",
+      "Delis"
+    ]
+  },
+  {
     "name": "On The Border Mexican Grill & Cantina - Loveland",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SM-seyC3mutPode1Bhg4zg/o.jpg",
     "rating": 2.5,
@@ -5408,6 +5408,17 @@
     "categories": [
       "Mexican",
       "Tex-Mex"
+    ]
+  },
+  {
+    "name": "Dickey's Barbecue Pit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/N5EuRlsmp1B3HK7SU-cr5A/o.jpg",
+    "rating": 3.0,
+    "address": "1399 Water Valley Pkwy, Windsor, CO 80550",
+    "categories": [
+      "American (Traditional)",
+      "Barbeque",
+      "Chicken Wings"
     ]
   },
   {
@@ -5429,17 +5440,6 @@
     ]
   },
   {
-    "name": "Dickey's Barbecue Pit",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/N5EuRlsmp1B3HK7SU-cr5A/o.jpg",
-    "rating": 3.0,
-    "address": "1399 Water Valley Pkwy, Windsor, CO 80550",
-    "categories": [
-      "American (Traditional)",
-      "Barbeque",
-      "Chicken Wings"
-    ]
-  },
-  {
     "name": "Mama Roni's Pizza",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_gQoW8tcnTJ2m_pf4crVUQ/o.jpg",
     "rating": 3.0,
@@ -5450,15 +5450,6 @@
     ]
   },
   {
-    "name": "Red Robin Gourmet Burgers and Brews",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jrhD2JfiS4AmrOLaYXsBWA/o.jpg",
-    "rating": 3.0,
-    "address": "6005 Sky Pond Dr, Loveland, CO 80538",
-    "categories": [
-      "Burgers"
-    ]
-  },
-  {
     "name": "Subway",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tXYHLBrAfld5YHkA53y_Bg/o.jpg",
     "rating": 2.5,
@@ -5466,6 +5457,15 @@
     "categories": [
       "Sandwiches",
       "Fast Food"
+    ]
+  },
+  {
+    "name": "Red Robin Gourmet Burgers and Brews",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jrhD2JfiS4AmrOLaYXsBWA/o.jpg",
+    "rating": 3.0,
+    "address": "6005 Sky Pond Dr, Loveland, CO 80538",
+    "categories": [
+      "Burgers"
     ]
   },
   {
@@ -5522,17 +5522,6 @@
     ]
   },
   {
-    "name": "Jersey Mike's Subs",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3l5h7Xe-ybfdJNDKxxmiNg/o.jpg",
-    "rating": 2.0,
-    "address": "4709 S Timberline Rd, Ste 103, Fort Collins, CO 80528",
-    "categories": [
-      "Sandwiches",
-      "Fast Food",
-      "Delis"
-    ]
-  },
-  {
     "name": "Sports Station American Grill",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eLW14wehEJe43mYUmA82FQ/o.jpg",
     "rating": 3.5,
@@ -5551,6 +5540,17 @@
       "Pizza",
       "Salad",
       "Chicken Wings"
+    ]
+  },
+  {
+    "name": "Jersey Mike's Subs",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3l5h7Xe-ybfdJNDKxxmiNg/o.jpg",
+    "rating": 2.0,
+    "address": "4709 S Timberline Rd, Ste 103, Fort Collins, CO 80528",
+    "categories": [
+      "Sandwiches",
+      "Fast Food",
+      "Delis"
     ]
   },
   {
@@ -5585,6 +5585,16 @@
     ]
   },
   {
+    "name": "QDOBA Mexican Eats",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fzTTvNOX36urExxGqlwsUg/o.jpg",
+    "rating": 2.0,
+    "address": "250 E Harmony Rd, Unit F4, Fort Collins, CO 80525",
+    "categories": [
+      "Mexican",
+      "Fast Food"
+    ]
+  },
+  {
     "name": "Freddy's Frozen Custard & Steakburgers",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/N0gvOeAyhc0Aos21C3krGw/o.jpg",
     "rating": 4.0,
@@ -5605,6 +5615,16 @@
     ]
   },
   {
+    "name": "Los Pepes Tacos Burritos Y Tortas",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/op5Veh7AU3pDTtvKqVsuZg/o.jpg",
+    "rating": 5.0,
+    "address": "1180 N College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Food Trucks",
+      "Mexican"
+    ]
+  },
+  {
     "name": "The Rollin' Stone Wood Fired Pizzeria",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ySrmqkFu2pMlAJlO1R_uZg/o.jpg",
     "rating": 4.0,
@@ -5616,23 +5636,21 @@
     ]
   },
   {
-    "name": "QDOBA Mexican Eats",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fzTTvNOX36urExxGqlwsUg/o.jpg",
-    "rating": 2.0,
-    "address": "250 E Harmony Rd, Unit F4, Fort Collins, CO 80525",
+    "name": "Thai Ai Ai",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wo-CYc-LJZwIp2QqnvbLuA/o.jpg",
+    "rating": 3.0,
+    "address": "1401 W Elizabeth St, Fort Collins, CO 80521",
     "categories": [
-      "Mexican",
-      "Fast Food"
+      "Thai"
     ]
   },
   {
-    "name": "Los Pepes Tacos Burritos Y Tortas",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/op5Veh7AU3pDTtvKqVsuZg/o.jpg",
-    "rating": 5.0,
-    "address": "1180 N College Ave, Fort Collins, CO 80524",
+    "name": "Osaka Hibachi Japanese Steakhouse",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/X7XHoiDlCHeUDoXYUFVu7g/o.jpg",
+    "rating": 3.5,
+    "address": "3320 N Garfield Ave, Loveland, CO 80538",
     "categories": [
-      "Food Trucks",
-      "Mexican"
+      "Japanese"
     ]
   },
   {
@@ -5646,15 +5664,6 @@
     ]
   },
   {
-    "name": "Thai Ai Ai",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wo-CYc-LJZwIp2QqnvbLuA/o.jpg",
-    "rating": 3.0,
-    "address": "1401 W Elizabeth St, Fort Collins, CO 80521",
-    "categories": [
-      "Thai"
-    ]
-  },
-  {
     "name": "Subway",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pzTCGZSt6P0BxyudW0V_Mw/o.jpg",
     "rating": 2.0,
@@ -5665,12 +5674,13 @@
     ]
   },
   {
-    "name": "Osaka Hibachi Japanese Steakhouse",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/X7XHoiDlCHeUDoXYUFVu7g/o.jpg",
-    "rating": 3.5,
-    "address": "3320 N Garfield Ave, Loveland, CO 80538",
+    "name": "QDOBA Mexican Eats",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JGQsGLrOXv082apQJmk4jA/o.jpg",
+    "rating": 3.0,
+    "address": "1281 E Magnolia St, Ste E, Fort Collins, CO 80524",
     "categories": [
-      "Japanese"
+      "Mexican",
+      "Fast Food"
     ]
   },
   {
@@ -5696,16 +5706,6 @@
     ]
   },
   {
-    "name": "QDOBA Mexican Eats",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JGQsGLrOXv082apQJmk4jA/o.jpg",
-    "rating": 3.0,
-    "address": "1281 E Magnolia St, Ste E, Fort Collins, CO 80524",
-    "categories": [
-      "Mexican",
-      "Fast Food"
-    ]
-  },
-  {
     "name": "Papa Johns Pizza",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xbZXZ98yGBgM2FAwyus3Fg/o.jpg",
     "rating": 3.0,
@@ -5717,6 +5717,15 @@
     ]
   },
   {
+    "name": "3 Margaritas - Loveland",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_Gtfa4G6owj1tYsQ4qXVhA/o.jpg",
+    "rating": 3.0,
+    "address": "1417 Cheyenne Ave, Loveland, CO 80538",
+    "categories": [
+      "Mexican"
+    ]
+  },
+  {
     "name": "Taco Bell",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8uyuqEIAy9qKAmCHWY6FgQ/o.jpg",
     "rating": 2.0,
@@ -5724,28 +5733,6 @@
     "categories": [
       "Mexican",
       "Fast Food"
-    ]
-  },
-  {
-    "name": "Denny's",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gMc16PgEzmJjQGo5rnCJIA/o.jpg",
-    "rating": 2.5,
-    "address": "420 Centro Way, Fort Collins, CO 80524",
-    "categories": [
-      "Diners",
-      "American (Traditional)",
-      "Breakfast & Brunch"
-    ]
-  },
-  {
-    "name": "Honey Baked Ham Company",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ITu0mtll-h6YynBciXPCCQ/o.jpg",
-    "rating": 3.0,
-    "address": "731 E Harmony Rd, Ft. Collins, CO 80525",
-    "categories": [
-      "Meat Shops",
-      "Sandwiches",
-      "Delis"
     ]
   },
   {
@@ -5760,12 +5747,14 @@
     ]
   },
   {
-    "name": "3 Margaritas - Loveland",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_Gtfa4G6owj1tYsQ4qXVhA/o.jpg",
+    "name": "Honey Baked Ham Company",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ITu0mtll-h6YynBciXPCCQ/o.jpg",
     "rating": 3.0,
-    "address": "1417 Cheyenne Ave, Loveland, CO 80538",
+    "address": "731 E Harmony Rd, Ft. Collins, CO 80525",
     "categories": [
-      "Mexican"
+      "Meat Shops",
+      "Sandwiches",
+      "Delis"
     ]
   },
   {
@@ -5790,16 +5779,6 @@
     ]
   },
   {
-    "name": "Burger King",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zU_EqkZys3EZh3m8kJjpJg/o.jpg",
-    "rating": 2.0,
-    "address": "2101 S Timberline Rd, Fort Collins, CO 80525",
-    "categories": [
-      "Burgers",
-      "Fast Food"
-    ]
-  },
-  {
     "name": "Domino's Pizza",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Mx_H_uNntj2PkRcUPGKLjg/o.jpg",
     "rating": 3.0,
@@ -5811,14 +5790,33 @@
     ]
   },
   {
-    "name": "Panera Bread",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-L9pVMAchZ4BSbhcQAsulw/o.jpg",
-    "rating": 2.5,
-    "address": "2721 Council Tree Avenue, Suite 143, Fort Collins, CO 80525",
+    "name": "Burger King",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zU_EqkZys3EZh3m8kJjpJg/o.jpg",
+    "rating": 2.0,
+    "address": "2101 S Timberline Rd, Fort Collins, CO 80525",
     "categories": [
-      "Sandwiches",
-      "Salad",
-      "Soup"
+      "Burgers",
+      "Fast Food"
+    ]
+  },
+  {
+    "name": "Denny's",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gMc16PgEzmJjQGo5rnCJIA/o.jpg",
+    "rating": 2.5,
+    "address": "420 Centro Way, Fort Collins, CO 80524",
+    "categories": [
+      "Diners",
+      "American (Traditional)",
+      "Breakfast & Brunch"
+    ]
+  },
+  {
+    "name": "Steak Escape",
+    "image_url": "",
+    "rating": 0.0,
+    "address": "250 E Harmony Rd, Fort Collins, CO 80525",
+    "categories": [
+      "Steakhouses"
     ]
   },
   {
@@ -5842,23 +5840,23 @@
     ]
   },
   {
+    "name": "Panera Bread",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-L9pVMAchZ4BSbhcQAsulw/o.jpg",
+    "rating": 2.5,
+    "address": "2721 Council Tree Avenue, Suite 143, Fort Collins, CO 80525",
+    "categories": [
+      "Sandwiches",
+      "Salad",
+      "Soup"
+    ]
+  },
+  {
     "name": "Tumbleweed Super Tasty Treats",
     "image_url": "",
     "rating": 4.0,
     "address": "Fort Collins, CO 80524",
     "categories": [
       "Food Stands"
-    ]
-  },
-  {
-    "name": "Pizza Hut",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mTP3xpzYUzt89tqMdnJvUA/o.jpg",
-    "rating": 2.5,
-    "address": "4643 S Mason St, Fort Collins, CO 80525",
-    "categories": [
-      "Pizza",
-      "Chicken Wings",
-      "Fast Food"
     ]
   },
   {
@@ -5873,6 +5871,15 @@
     ]
   },
   {
+    "name": "Papa Murphy's",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/F9jzSEFyQCj_Y-XjFkP3Hw/o.jpg",
+    "rating": 2.5,
+    "address": "1031 South Taft Hill Road, Fort Collins, CO 80521",
+    "categories": [
+      "Pizza"
+    ]
+  },
+  {
     "name": "Etai's Bakery Cafe",
     "image_url": "",
     "rating": 0.0,
@@ -5884,21 +5891,14 @@
     ]
   },
   {
-    "name": "Papa Murphy's",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/F9jzSEFyQCj_Y-XjFkP3Hw/o.jpg",
+    "name": "Pizza Hut",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mTP3xpzYUzt89tqMdnJvUA/o.jpg",
     "rating": 2.5,
-    "address": "1031 South Taft Hill Road, Fort Collins, CO 80521",
+    "address": "4643 S Mason St, Fort Collins, CO 80525",
     "categories": [
-      "Pizza"
-    ]
-  },
-  {
-    "name": "Steak Escape",
-    "image_url": "",
-    "rating": 0.0,
-    "address": "250 E Harmony Rd, Fort Collins, CO 80525",
-    "categories": [
-      "Steakhouses"
+      "Pizza",
+      "Chicken Wings",
+      "Fast Food"
     ]
   },
   {
@@ -5923,17 +5923,6 @@
     ]
   },
   {
-    "name": "Jimmy John's",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZVJRLihytTGba5qAbeWO5g/o.jpg",
-    "rating": 2.5,
-    "address": "4515 John F Kennedy Pkwy, Fort Collins, CO 80525",
-    "categories": [
-      "Sandwiches",
-      "Delis",
-      "Fast Food"
-    ]
-  },
-  {
     "name": "El Sabor Rico",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lKT3n5xT9PwSCNOCTBNjTQ/o.jpg",
     "rating": 3.5,
@@ -5954,14 +5943,14 @@
     ]
   },
   {
-    "name": "Chick-fil-A",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E_6BERf_t4hooyrxSrd72A/o.jpg",
-    "rating": 3.0,
-    "address": "4531 Weitzel St Timnath, Timnath, CO 80547",
+    "name": "Jimmy John's",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZVJRLihytTGba5qAbeWO5g/o.jpg",
+    "rating": 2.5,
+    "address": "4515 John F Kennedy Pkwy, Fort Collins, CO 80525",
     "categories": [
-      "Fast Food",
-      "Chicken Shop",
-      "Salad"
+      "Sandwiches",
+      "Delis",
+      "Fast Food"
     ]
   },
   {
@@ -5983,23 +5972,23 @@
     ]
   },
   {
+    "name": "Chick-fil-A",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E_6BERf_t4hooyrxSrd72A/o.jpg",
+    "rating": 3.0,
+    "address": "4531 Weitzel St Timnath, Timnath, CO 80547",
+    "categories": [
+      "Fast Food",
+      "Chicken Shop",
+      "Salad"
+    ]
+  },
+  {
     "name": "Justine's Pizza",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vzx14SyHuqJl6bDw40JWyA/o.jpg",
     "rating": 3.5,
     "address": "1015 S Taft Hill Rd, Fort Collins, CO 80521",
     "categories": [
       "Pizza"
-    ]
-  },
-  {
-    "name": "Jimmy John's",
-    "image_url": "",
-    "rating": 2.5,
-    "address": "1335 W Elizabeth St, Ste 110, Fort Collins, CO 80521",
-    "categories": [
-      "Delis",
-      "Sandwiches",
-      "Fast Food"
     ]
   },
   {
@@ -6025,17 +6014,6 @@
     ]
   },
   {
-    "name": "Culver's",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/owNqMQWGKJeTl4FMHPtchA/o.jpg",
-    "rating": 3.0,
-    "address": "1606 W Eisenhower Blvd, Loveland, CO 80537",
-    "categories": [
-      "Ice Cream & Frozen Yogurt",
-      "Burgers",
-      "Fast Food"
-    ]
-  },
-  {
     "name": "Domino's Pizza",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WQE5Do0sk6cxbvI9Xd2Jnw/o.jpg",
     "rating": 3.0,
@@ -6044,6 +6022,17 @@
       "Pizza",
       "Chicken Wings",
       "Sandwiches"
+    ]
+  },
+  {
+    "name": "Culver's",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/owNqMQWGKJeTl4FMHPtchA/o.jpg",
+    "rating": 3.0,
+    "address": "1606 W Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Ice Cream & Frozen Yogurt",
+      "Burgers",
+      "Fast Food"
     ]
   },
   {
@@ -6056,17 +6045,6 @@
     ]
   },
   {
-    "name": "McDonald's",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qhNOziGjvPvVHadKagUBBA/o.jpg",
-    "rating": 2.0,
-    "address": "1250 W Elizabeth St, Fort Collins, CO 80525",
-    "categories": [
-      "Burgers",
-      "Fast Food",
-      "Coffee & Tea"
-    ]
-  },
-  {
     "name": "Papa Johns Pizza",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i_RpTF90izgxAdN0yTRrdg/o.jpg",
     "rating": 2.0,
@@ -6075,6 +6053,28 @@
       "Pizza",
       "Chicken Wings",
       "Fast Food"
+    ]
+  },
+  {
+    "name": "Jimmy John's",
+    "image_url": "",
+    "rating": 2.5,
+    "address": "1335 W Elizabeth St, Ste 110, Fort Collins, CO 80521",
+    "categories": [
+      "Delis",
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
+    "name": "McDonald's",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qhNOziGjvPvVHadKagUBBA/o.jpg",
+    "rating": 2.0,
+    "address": "1250 W Elizabeth St, Fort Collins, CO 80525",
+    "categories": [
+      "Burgers",
+      "Fast Food",
+      "Coffee & Tea"
     ]
   },
   {
@@ -6094,6 +6094,15 @@
     "address": "402 Linden St, Fort Collins, CO 80524",
     "categories": [
       "Mexican"
+    ]
+  },
+  {
+    "name": "Tokyo Bowl & Grill",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/r6tisHvC1Xfst9JyFVKlKQ/o.jpg",
+    "rating": 0.0,
+    "address": "3663 S College Ave, Ste 12, Fort Collins, CO 80525",
+    "categories": [
+      "Restaurants"
     ]
   },
   {
@@ -6118,23 +6127,14 @@
     ]
   },
   {
-    "name": "Firehouse Subs",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7QPMksCGrRC141PyDKeSQQ/o.jpg",
-    "rating": 3.5,
-    "address": "1395 Sculptor Dr, Loveland, CO 80537",
+    "name": "Maverik",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/57DxrrlRQrEyWBx8Z5iEmA/o.jpg",
+    "rating": 3.0,
+    "address": "651 Frontage Rd, Fort Collins, CO 80524",
     "categories": [
-      "Fast Food",
-      "Sandwiches",
-      "Delis"
-    ]
-  },
-  {
-    "name": "Tokyo Bowl & Grill",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/r6tisHvC1Xfst9JyFVKlKQ/o.jpg",
-    "rating": 0.0,
-    "address": "3663 S College Ave, Ste 12, Fort Collins, CO 80525",
-    "categories": [
-      "Restaurants"
+      "Gas Stations",
+      "Convenience Stores",
+      "Fast Food"
     ]
   },
   {
@@ -6148,14 +6148,14 @@
     ]
   },
   {
-    "name": "Maverik",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/57DxrrlRQrEyWBx8Z5iEmA/o.jpg",
-    "rating": 3.0,
-    "address": "651 Frontage Rd, Fort Collins, CO 80524",
+    "name": "Firehouse Subs",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7QPMksCGrRC141PyDKeSQQ/o.jpg",
+    "rating": 3.5,
+    "address": "1395 Sculptor Dr, Loveland, CO 80537",
     "categories": [
-      "Gas Stations",
-      "Convenience Stores",
-      "Fast Food"
+      "Fast Food",
+      "Sandwiches",
+      "Delis"
     ]
   },
   {
@@ -6188,15 +6188,6 @@
     ]
   },
   {
-    "name": "Bamboo Express",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3zN-gzdTiORttBnTnSfn4w/o.jpg",
-    "rating": 3.5,
-    "address": "1611 W Eisenhower Blvd, Loveland, CO 80537",
-    "categories": [
-      "Chinese"
-    ]
-  },
-  {
     "name": "Colorado Coffee",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JbqyiDSLJFlPjpSk8apyxg/o.jpg",
     "rating": 3.5,
@@ -6214,6 +6205,15 @@
     "address": "737 South Lemay Avenue, Fort Collins, CO 80524",
     "categories": [
       "Pizza"
+    ]
+  },
+  {
+    "name": "Bamboo Express",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3zN-gzdTiORttBnTnSfn4w/o.jpg",
+    "rating": 3.5,
+    "address": "1611 W Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Chinese"
     ]
   },
   {
@@ -6279,17 +6279,6 @@
     ]
   },
   {
-    "name": "Perkins Restaurant & Bakery",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LQ_lA7gW9N3BNDIYIUrhwg/o.jpg",
-    "rating": 2.5,
-    "address": "2222 W Eisenhower Blvd, Loveland, CO 80537",
-    "categories": [
-      "Bakeries",
-      "Breakfast & Brunch",
-      "American (Traditional)"
-    ]
-  },
-  {
     "name": "Bad Mommys Tamales",
     "image_url": "",
     "rating": 0.0,
@@ -6306,6 +6295,17 @@
     "categories": [
       "Burgers",
       "Fast Food"
+    ]
+  },
+  {
+    "name": "Perkins Restaurant & Bakery",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LQ_lA7gW9N3BNDIYIUrhwg/o.jpg",
+    "rating": 2.5,
+    "address": "2222 W Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Bakeries",
+      "Breakfast & Brunch",
+      "American (Traditional)"
     ]
   },
   {
@@ -6331,17 +6331,6 @@
     ]
   },
   {
-    "name": "Jersey Mike's Subs",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wG8zcEOf3epelq59SS-J7w/o.jpg",
-    "rating": 2.5,
-    "address": "4936 Thompson Pkwy, Johnstown, CO 80534",
-    "categories": [
-      "Delis",
-      "Sandwiches",
-      "Fast Food"
-    ]
-  },
-  {
     "name": "Taco John's",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tVOnpdGkQDZwCPHdxSzCcA/o.jpg",
     "rating": 2.5,
@@ -6360,6 +6349,17 @@
       "Empanadas",
       "Bakeries",
       "Mexican"
+    ]
+  },
+  {
+    "name": "Jersey Mike's Subs",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wG8zcEOf3epelq59SS-J7w/o.jpg",
+    "rating": 2.5,
+    "address": "4936 Thompson Pkwy, Johnstown, CO 80534",
+    "categories": [
+      "Delis",
+      "Sandwiches",
+      "Fast Food"
     ]
   },
   {
@@ -6392,6 +6392,16 @@
     ]
   },
   {
+    "name": "Subway",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yY3MbodKqJC_4wLaA2zh7A/o.jpg",
+    "rating": 2.5,
+    "address": "2170 W Drake, #B7, Fort Collins, CO 80526",
+    "categories": [
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
     "name": "Gib's NY Bagel & Deli",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xKNOkPLFZejf7JgJdzcteA/o.jpg",
     "rating": 3.0,
@@ -6400,16 +6410,6 @@
       "Bagels",
       "Delis",
       "Caterers"
-    ]
-  },
-  {
-    "name": "Subway",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yY3MbodKqJC_4wLaA2zh7A/o.jpg",
-    "rating": 2.5,
-    "address": "2170 W Drake, #B7, Fort Collins, CO 80526",
-    "categories": [
-      "Sandwiches",
-      "Fast Food"
     ]
   },
   {
@@ -6422,34 +6422,12 @@
     ]
   },
   {
-    "name": "Lonchera Yolanda",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TUiC_Wp60BfGn9DjOcYsZw/o.jpg",
-    "rating": 0.0,
-    "address": "309 S Link Ln, Fort Collins, CO 80524",
-    "categories": [
-      "Food Trucks",
-      "Mexican",
-      "Burgers"
-    ]
-  },
-  {
     "name": "Nokhu On Canyon",
     "image_url": "",
     "rating": 0.0,
     "address": "211 Canyon Ave, Fort Collins, CO 80521",
     "categories": [
       "Restaurants"
-    ]
-  },
-  {
-    "name": "Village Inn",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pS5JDLI2FPkRGqmroMmGHQ/o.jpg",
-    "rating": 3.0,
-    "address": "1225 W Eisenhower Blvd, Loveland, CO 80537",
-    "categories": [
-      "Breakfast & Brunch",
-      "Burgers",
-      "Sandwiches"
     ]
   },
   {
@@ -6464,6 +6442,17 @@
     ]
   },
   {
+    "name": "Lonchera Yolanda",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TUiC_Wp60BfGn9DjOcYsZw/o.jpg",
+    "rating": 0.0,
+    "address": "309 S Link Ln, Fort Collins, CO 80524",
+    "categories": [
+      "Food Trucks",
+      "Mexican",
+      "Burgers"
+    ]
+  },
+  {
     "name": "Hungry Pizza",
     "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FOjlBgZoWmrqqYV9mhnKGQ/o.jpg",
     "rating": 0.0,
@@ -6475,17 +6464,6 @@
     ]
   },
   {
-    "name": "Jimmy John's",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S6MkmjeSGy4FwcqwDub2MA/o.jpg",
-    "rating": 2.5,
-    "address": "1180 Main St, Ste. 1, Windsor, CO 80550",
-    "categories": [
-      "Sandwiches",
-      "Fast Food",
-      "Delis"
-    ]
-  },
-  {
     "name": "QDOBA Mexican Eats",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/__7e0LDuVGXMPXaeTjW3Og/o.jpg",
     "rating": 2.5,
@@ -6493,6 +6471,17 @@
     "categories": [
       "Fast Food",
       "Mexican"
+    ]
+  },
+  {
+    "name": "Village Inn",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pS5JDLI2FPkRGqmroMmGHQ/o.jpg",
+    "rating": 3.0,
+    "address": "1225 W Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Breakfast & Brunch",
+      "Burgers",
+      "Sandwiches"
     ]
   },
   {
@@ -6525,13 +6514,14 @@
     ]
   },
   {
-    "name": "QDOBA Mexican Eats",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vVaW0pr_VoqbKqRRbzndAA/o.jpg",
-    "rating": 3.0,
-    "address": "233 E 29th St, Loveland, CO 80538",
+    "name": "Jimmy John's",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S6MkmjeSGy4FwcqwDub2MA/o.jpg",
+    "rating": 2.5,
+    "address": "1180 Main St, Ste. 1, Windsor, CO 80550",
     "categories": [
-      "Mexican",
-      "Fast Food"
+      "Sandwiches",
+      "Fast Food",
+      "Delis"
     ]
   },
   {
@@ -6555,13 +6545,13 @@
     ]
   },
   {
-    "name": "Pizza Street",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8NE7xmmZBQpt0zDxxHBNsA/o.jpg",
+    "name": "QDOBA Mexican Eats",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vVaW0pr_VoqbKqRRbzndAA/o.jpg",
     "rating": 3.0,
-    "address": "1475 N Boise Ave, Ste 2, Loveland, CO 80538",
+    "address": "233 E 29th St, Loveland, CO 80538",
     "categories": [
-      "Pizza",
-      "Sandwiches"
+      "Mexican",
+      "Fast Food"
     ]
   },
   {
@@ -6583,6 +6573,25 @@
     "categories": [
       "Fast Food",
       "Sandwiches"
+    ]
+  },
+  {
+    "name": "Pizza Street",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8NE7xmmZBQpt0zDxxHBNsA/o.jpg",
+    "rating": 3.0,
+    "address": "1475 N Boise Ave, Ste 2, Loveland, CO 80538",
+    "categories": [
+      "Pizza",
+      "Sandwiches"
+    ]
+  },
+  {
+    "name": "Little Caesars",
+    "image_url": "",
+    "rating": 1.5,
+    "address": "1720 W Mulberry St, Fort Collins, CO 80521",
+    "categories": [
+      "Pizza"
     ]
   },
   {
@@ -6613,15 +6622,6 @@
     ]
   },
   {
-    "name": "Little Caesars",
-    "image_url": "",
-    "rating": 1.5,
-    "address": "1720 W Mulberry St, Fort Collins, CO 80521",
-    "categories": [
-      "Pizza"
-    ]
-  },
-  {
     "name": "Noodles & Company",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Bb-V7z84pFXu8u7veF_waA/o.jpg",
     "rating": 2.5,
@@ -6630,6 +6630,15 @@
       "Noodles",
       "Salad",
       "Pasta Shops"
+    ]
+  },
+  {
+    "name": "Healthy 'N Fit",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/82_heN3OSgRCORlvSFcvKA/o.jpg",
+    "rating": 0.0,
+    "address": "614 S Mason St, Fort Collins, CO 80524",
+    "categories": [
+      "Fast Food"
     ]
   },
   {
@@ -6643,25 +6652,6 @@
     ]
   },
   {
-    "name": "Healthy 'N Fit",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/82_heN3OSgRCORlvSFcvKA/o.jpg",
-    "rating": 0.0,
-    "address": "614 S Mason St, Fort Collins, CO 80524",
-    "categories": [
-      "Fast Food"
-    ]
-  },
-  {
-    "name": "Ofelias Home Style Mexican Food",
-    "image_url": "",
-    "rating": 0.0,
-    "address": "Fort Collins, CO 80524",
-    "categories": [
-      "Food Trucks",
-      "Mexican"
-    ]
-  },
-  {
     "name": "Wing Shack Loveland",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K09Qrdc9j6j3N5aFbHyB8g/o.jpg",
     "rating": 3.5,
@@ -6669,15 +6659,6 @@
     "categories": [
       "Chicken Wings",
       "American (Traditional)"
-    ]
-  },
-  {
-    "name": "Smashburger",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mOExr_-C5qwI-KC4WxlhsA/o.jpg",
-    "rating": 3.0,
-    "address": "1419 N Denver Ave, Loveland, CO 80538",
-    "categories": [
-      "Burgers"
     ]
   },
   {
@@ -6689,6 +6670,16 @@
       "Fast Food",
       "Burgers",
       "Coffee & Tea"
+    ]
+  },
+  {
+    "name": "Ofelias Home Style Mexican Food",
+    "image_url": "",
+    "rating": 0.0,
+    "address": "Fort Collins, CO 80524",
+    "categories": [
+      "Food Trucks",
+      "Mexican"
     ]
   },
   {
@@ -6721,15 +6712,6 @@
     ]
   },
   {
-    "name": "Aspen Leaf Grille",
-    "image_url": "",
-    "rating": 1.0,
-    "address": "1480 Cascade Ave, Loveland, CO 80538",
-    "categories": [
-      "American (Traditional)"
-    ]
-  },
-  {
     "name": "McDonald's",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p4xumg-mT8gYqTy7AiHaFQ/o.jpg",
     "rating": 2.0,
@@ -6738,6 +6720,15 @@
       "Fast Food",
       "Burgers",
       "Coffee & Tea"
+    ]
+  },
+  {
+    "name": "Aspen Leaf Grille",
+    "image_url": "",
+    "rating": 1.0,
+    "address": "1480 Cascade Ave, Loveland, CO 80538",
+    "categories": [
+      "American (Traditional)"
     ]
   },
   {
@@ -6821,6 +6812,16 @@
     ]
   },
   {
+    "name": "Subway",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gUKFcEVhWM9LYXelm4TOKA/o.jpg",
+    "rating": 3.0,
+    "address": "Lory Student Ctr, Fort Collins, CO 80523",
+    "categories": [
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
     "name": "Spoons - Soups, Salads & Sandwiches",
     "image_url": "",
     "rating": 0.0,
@@ -6829,16 +6830,6 @@
       "Salad",
       "Soup",
       "Sandwiches"
-    ]
-  },
-  {
-    "name": "Subway",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gUKFcEVhWM9LYXelm4TOKA/o.jpg",
-    "rating": 3.0,
-    "address": "Lory Student Ctr, Fort Collins, CO 80523",
-    "categories": [
-      "Sandwiches",
-      "Fast Food"
     ]
   },
   {
@@ -6861,13 +6852,22 @@
     ]
   },
   {
-    "name": "Quiznos",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LcRXF7j9iGzKXrmg_NPD0w/o.jpg",
-    "rating": 3.5,
-    "address": "1550 Main St, Ste 100, Windsor, CO 80550",
+    "name": "MrBeast Burger",
+    "image_url": "",
+    "rating": 0.0,
+    "address": "701 East Harmony Road, Fort Collins, CO 80525",
     "categories": [
-      "Sandwiches",
-      "Delis"
+      "Food Delivery Services",
+      "Burgers"
+    ]
+  },
+  {
+    "name": "Smashburger",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mOExr_-C5qwI-KC4WxlhsA/o.jpg",
+    "rating": 3.0,
+    "address": "1419 N Denver Ave, Loveland, CO 80538",
+    "categories": [
+      "Burgers"
     ]
   },
   {
@@ -6880,16 +6880,6 @@
     ]
   },
   {
-    "name": "MrBeast Burger",
-    "image_url": "",
-    "rating": 0.0,
-    "address": "701 East Harmony Road, Fort Collins, CO 80525",
-    "categories": [
-      "Food Delivery Services",
-      "Burgers"
-    ]
-  },
-  {
     "name": "Rogers Garth W",
     "image_url": "",
     "rating": 0.0,
@@ -6899,12 +6889,32 @@
     ]
   },
   {
+    "name": "Quiznos",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LcRXF7j9iGzKXrmg_NPD0w/o.jpg",
+    "rating": 3.5,
+    "address": "1550 Main St, Ste 100, Windsor, CO 80550",
+    "categories": [
+      "Sandwiches",
+      "Delis"
+    ]
+  },
+  {
     "name": "Panda Express",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Cc-FPN1u0-gdfeGIuVLvUw/o.jpg",
     "rating": 3.5,
     "address": "4765 Weitzel St, Timnath, CO 80547",
     "categories": [
       "Chinese",
+      "Fast Food"
+    ]
+  },
+  {
+    "name": "Quiznos",
+    "image_url": "",
+    "rating": 0.0,
+    "address": "130 W Olive St, Fort Collins, CO 80524",
+    "categories": [
+      "Sandwiches",
       "Fast Food"
     ]
   },
@@ -6919,13 +6929,12 @@
     ]
   },
   {
-    "name": "Quiznos",
+    "name": "Toddamy",
     "image_url": "",
     "rating": 0.0,
-    "address": "130 W Olive St, Fort Collins, CO 80524",
+    "address": "4424 Denrose Ct, Fort Collins, CO 80524",
     "categories": [
-      "Sandwiches",
-      "Fast Food"
+      "Restaurants"
     ]
   },
   {
@@ -6940,22 +6949,13 @@
     ]
   },
   {
-    "name": "Toddamy",
-    "image_url": "",
-    "rating": 0.0,
-    "address": "4424 Denrose Ct, Fort Collins, CO 80524",
+    "name": "Taco Bell",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/agwEVpv6txfFx2zE8vA7hQ/o.jpg",
+    "rating": 1.5,
+    "address": "115 65th St., Loveland, CO 80538",
     "categories": [
-      "Restaurants"
-    ]
-  },
-  {
-    "name": "My Big Fat Greek Gyro",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gXqa52w2B_3v2kXvRUrwfQ/o.jpg",
-    "rating": 2.5,
-    "address": "Fort Collins, CO 80521",
-    "categories": [
-      "Greek",
-      "Food Trucks"
+      "Fast Food",
+      "Mexican"
     ]
   },
   {
@@ -6969,13 +6969,13 @@
     ]
   },
   {
-    "name": "Taco Bell",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/agwEVpv6txfFx2zE8vA7hQ/o.jpg",
-    "rating": 1.5,
-    "address": "115 65th St., Loveland, CO 80538",
+    "name": "My Big Fat Greek Gyro",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gXqa52w2B_3v2kXvRUrwfQ/o.jpg",
+    "rating": 2.5,
+    "address": "Fort Collins, CO 80521",
     "categories": [
-      "Fast Food",
-      "Mexican"
+      "Greek",
+      "Food Trucks"
     ]
   },
   {
@@ -7038,16 +7038,6 @@
     ]
   },
   {
-    "name": "Burger King",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1vY58OQ51xiQ7htuPfayJw/o.jpg",
-    "rating": 1.5,
-    "address": "1648 N College Ave, Fort Collins, CO 80524",
-    "categories": [
-      "Burgers",
-      "Fast Food"
-    ]
-  },
-  {
     "name": "Arby's",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/E6eJvc8YX-GxBc5OGVJvyw/o.jpg",
     "rating": 2.0,
@@ -7055,6 +7045,16 @@
     "categories": [
       "Fast Food",
       "Sandwiches"
+    ]
+  },
+  {
+    "name": "Burger King",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1vY58OQ51xiQ7htuPfayJw/o.jpg",
+    "rating": 1.5,
+    "address": "1648 N College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Burgers",
+      "Fast Food"
     ]
   },
   {
@@ -7115,6 +7115,16 @@
     ]
   },
   {
+    "name": "Panda Express",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zEQIFuWE-KADR-XwtNezLg/o.jpg",
+    "rating": 2.0,
+    "address": "1391 N. Denver Ave, Loveland, CO 80537",
+    "categories": [
+      "Chinese",
+      "Fast Food"
+    ]
+  },
+  {
     "name": "2Mayto 2Mato",
     "image_url": "",
     "rating": 0.0,
@@ -7135,16 +7145,6 @@
     ]
   },
   {
-    "name": "Panda Express",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zEQIFuWE-KADR-XwtNezLg/o.jpg",
-    "rating": 2.0,
-    "address": "1391 N. Denver Ave, Loveland, CO 80537",
-    "categories": [
-      "Chinese",
-      "Fast Food"
-    ]
-  },
-  {
     "name": "IHOP",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5wW-M8kBf7auupKEx1TV8w/o.jpg",
     "rating": 3.0,
@@ -7153,15 +7153,6 @@
       "Breakfast & Brunch",
       "American (Traditional)",
       "Burgers"
-    ]
-  },
-  {
-    "name": "Main Moon Buffet",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/48fwI8e3A3myyA0U9JpCnQ/o.jpg",
-    "rating": 1.0,
-    "address": "265 E 29th St, Ste A, Loveland, CO 80538",
-    "categories": [
-      "Buffets"
     ]
   },
   {
@@ -7175,22 +7166,12 @@
     ]
   },
   {
-    "name": "Bowl of Soul",
-    "image_url": "",
-    "rating": 0.0,
-    "address": "4221 West Eisenhower Blvd, Loveland, CO 80537",
+    "name": "Main Moon Buffet",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/48fwI8e3A3myyA0U9JpCnQ/o.jpg",
+    "rating": 1.0,
+    "address": "265 E 29th St, Ste A, Loveland, CO 80538",
     "categories": [
-      "Soul Food"
-    ]
-  },
-  {
-    "name": "Carl's Jr",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Vy3C2a_--jo-zRybzAy3fA/o.jpg",
-    "rating": 2.5,
-    "address": "4140 Clydesdale Pkwy, Loveland, CO 80538",
-    "categories": [
-      "Fast Food",
-      "Burgers"
+      "Buffets"
     ]
   },
   {
@@ -7203,6 +7184,15 @@
     ]
   },
   {
+    "name": "Bowl of Soul",
+    "image_url": "",
+    "rating": 0.0,
+    "address": "4221 West Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Soul Food"
+    ]
+  },
+  {
     "name": "Subway",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IUR4oS5jpkcO2rOPQg1hAQ/o.jpg",
     "rating": 4.5,
@@ -7210,6 +7200,16 @@
     "categories": [
       "Sandwiches",
       "Fast Food"
+    ]
+  },
+  {
+    "name": "Carl's Jr",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Vy3C2a_--jo-zRybzAy3fA/o.jpg",
+    "rating": 2.5,
+    "address": "4140 Clydesdale Pkwy, Loveland, CO 80538",
+    "categories": [
+      "Fast Food",
+      "Burgers"
     ]
   },
   {
@@ -7232,16 +7232,6 @@
     ]
   },
   {
-    "name": "Taco's Y Burrito's El Puebla",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UUCWYwfdoffeGKIZhISRPQ/o.jpg",
-    "rating": 5.0,
-    "address": "37th & Garfield Ave, Loveland, CO 80538",
-    "categories": [
-      "Food Trucks",
-      "Mexican"
-    ]
-  },
-  {
     "name": "Ristorante Damosso",
     "image_url": "",
     "rating": 0.0,
@@ -7258,6 +7248,16 @@
     "categories": [
       "Food Delivery Services",
       "Vegan"
+    ]
+  },
+  {
+    "name": "Taco's Y Burrito's El Puebla",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UUCWYwfdoffeGKIZhISRPQ/o.jpg",
+    "rating": 5.0,
+    "address": "37th & Garfield Ave, Loveland, CO 80538",
+    "categories": [
+      "Food Trucks",
+      "Mexican"
     ]
   },
   {
@@ -7293,15 +7293,6 @@
     ]
   },
   {
-    "name": "Mountain View Pizza",
-    "image_url": "",
-    "rating": 0.0,
-    "address": "1612 N College Ave, Fort Collins, CO 80524",
-    "categories": [
-      "Pizza"
-    ]
-  },
-  {
     "name": "Taco Bell",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yF_l_hHIi653Ko-_aMUXNg/o.jpg",
     "rating": 1.5,
@@ -7309,6 +7300,15 @@
     "categories": [
       "Fast Food",
       "Mexican"
+    ]
+  },
+  {
+    "name": "Mountain View Pizza",
+    "image_url": "",
+    "rating": 0.0,
+    "address": "1612 N College Ave, Fort Collins, CO 80524",
+    "categories": [
+      "Pizza"
     ]
   },
   {
@@ -7322,14 +7322,12 @@
     ]
   },
   {
-    "name": "Dairy Queen Store",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FljK-XkItR0Vj2TA5VKmgA/o.jpg",
-    "rating": 3.0,
-    "address": "300 E Eisenhower Blvd, Loveland, CO 80537",
+    "name": "Pelican Lakes Golf Club",
+    "image_url": "",
+    "rating": 1.0,
+    "address": "1620 Pelican Lakes Point, Windsor, CO 80550",
     "categories": [
-      "Ice Cream & Frozen Yogurt",
-      "Fast Food",
-      "Burgers"
+      "American (Traditional)"
     ]
   },
   {
@@ -7344,12 +7342,24 @@
     ]
   },
   {
-    "name": "Pelican Lakes Golf Club",
-    "image_url": "",
-    "rating": 1.0,
-    "address": "1620 Pelican Lakes Point, Windsor, CO 80550",
+    "name": "Dairy Queen Store",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FljK-XkItR0Vj2TA5VKmgA/o.jpg",
+    "rating": 3.0,
+    "address": "300 E Eisenhower Blvd, Loveland, CO 80537",
     "categories": [
-      "American (Traditional)"
+      "Ice Cream & Frozen Yogurt",
+      "Fast Food",
+      "Burgers"
+    ]
+  },
+  {
+    "name": "Taco Bell",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CXdR4FLsJEJFGt77aOzyhQ/o.jpg",
+    "rating": 2.0,
+    "address": "4645 Weitzel Street, Timnath, CO 80547",
+    "categories": [
+      "Mexican",
+      "Fast Food"
     ]
   },
   {
@@ -7364,9 +7374,9 @@
   },
   {
     "name": "Taco Bell",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CXdR4FLsJEJFGt77aOzyhQ/o.jpg",
-    "rating": 2.0,
-    "address": "4645 Weitzel Street, Timnath, CO 80547",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9F7wJBz5YWNb9Foq6DRQOA/o.jpg",
+    "rating": 1.5,
+    "address": "101 12th Street, Windsor, CO 80550",
     "categories": [
       "Mexican",
       "Fast Food"
@@ -7380,27 +7390,6 @@
     "categories": [
       "Fast Food",
       "Sandwiches"
-    ]
-  },
-  {
-    "name": "Taco Bell",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9F7wJBz5YWNb9Foq6DRQOA/o.jpg",
-    "rating": 1.5,
-    "address": "101 12th Street, Windsor, CO 80550",
-    "categories": [
-      "Mexican",
-      "Fast Food"
-    ]
-  },
-  {
-    "name": "Jimmy John's",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mDF5ToHyCO9Ps5Okfe5Mag/o.jpg",
-    "rating": 2.5,
-    "address": "1569 Falls River Dr, Ste 129, Loveland, CO 80538",
-    "categories": [
-      "Sandwiches",
-      "Delis",
-      "Fast Food"
     ]
   },
   {
@@ -7434,6 +7423,16 @@
     ]
   },
   {
+    "name": "Wendy's",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cMqpITXfYsHTsNXP0Jez6A/o.jpg",
+    "rating": 2.5,
+    "address": "1405 Rocky Mountain Ave, Loveland, CO 80538",
+    "categories": [
+      "Fast Food",
+      "Burgers"
+    ]
+  },
+  {
     "name": "Carl's Jr",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CYOMjWC_H53kmip63CG-7Q/o.jpg",
     "rating": 2.0,
@@ -7444,13 +7443,24 @@
     ]
   },
   {
-    "name": "Wendy's",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cMqpITXfYsHTsNXP0Jez6A/o.jpg",
+    "name": "Jimmy John's",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mDF5ToHyCO9Ps5Okfe5Mag/o.jpg",
     "rating": 2.5,
-    "address": "1405 Rocky Mountain Ave, Loveland, CO 80538",
+    "address": "1569 Falls River Dr, Ste 129, Loveland, CO 80538",
     "categories": [
-      "Fast Food",
-      "Burgers"
+      "Sandwiches",
+      "Delis",
+      "Fast Food"
+    ]
+  },
+  {
+    "name": "Wing Boss",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JsN7PTZz-wMjZ3H4HVo88g/o.jpg",
+    "rating": 0.0,
+    "address": "104 E 29th St, Loveland, CO 80538",
+    "categories": [
+      "Food Delivery Services",
+      "Chicken Wings"
     ]
   },
   {
@@ -7465,16 +7475,6 @@
     ]
   },
   {
-    "name": "Wing Boss",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JsN7PTZz-wMjZ3H4HVo88g/o.jpg",
-    "rating": 0.0,
-    "address": "104 E 29th St, Loveland, CO 80538",
-    "categories": [
-      "Food Delivery Services",
-      "Chicken Wings"
-    ]
-  },
-  {
     "name": "Burger King",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ov2mIGizOiqV7RH1hn8vCA/o.jpg",
     "rating": 1.5,
@@ -7485,16 +7485,6 @@
     ]
   },
   {
-    "name": "Arby's",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qsijc4qdUPL0An3VNEYQcw/o.jpg",
-    "rating": 2.5,
-    "address": "1617 E Eisenhower Blvd, Loveland, CO 80537",
-    "categories": [
-      "Fast Food",
-      "Sandwiches"
-    ]
-  },
-  {
     "name": "Domino's Pizza",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LHBZ9MfpunAhXibwgn6yHg/o.jpg",
     "rating": 2.5,
@@ -7502,6 +7492,16 @@
     "categories": [
       "Pizza",
       "Chicken Wings",
+      "Sandwiches"
+    ]
+  },
+  {
+    "name": "Arby's",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qsijc4qdUPL0An3VNEYQcw/o.jpg",
+    "rating": 2.5,
+    "address": "1617 E Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Fast Food",
       "Sandwiches"
     ]
   },
@@ -7527,32 +7527,10 @@
     ]
   },
   {
-    "name": "Sonic Drive-In",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Cf6e2Z0wxcrHgv4A3r6GOA/o.jpg",
-    "rating": 1.0,
-    "address": "2305 East 13th St, Loveland, CO 80537",
-    "categories": [
-      "Burgers",
-      "Fast Food",
-      "Ice Cream & Frozen Yogurt"
-    ]
-  },
-  {
-    "name": "McDonald's",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jLHKaUXXDiu4E1uEd_v6NQ/o.jpg",
-    "rating": 2.0,
-    "address": "1061 Main St, Windsor, CO 80550",
-    "categories": [
-      "Fast Food",
-      "Burgers",
-      "Coffee & Tea"
-    ]
-  },
-  {
     "name": "Wendy's",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m56na3TlLI4i7Y4jmvetqQ/o.jpg",
+    "image_url": "",
     "rating": 1.0,
-    "address": "1519 W Eisenhower Blvd, Loveland, CO 80537",
+    "address": "1585 Main St, Windsor, CO 80550",
     "categories": [
       "Fast Food",
       "Burgers"
@@ -7569,13 +7547,14 @@
     ]
   },
   {
-    "name": "Wendy's",
-    "image_url": "",
+    "name": "Sonic Drive-In",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Cf6e2Z0wxcrHgv4A3r6GOA/o.jpg",
     "rating": 1.0,
-    "address": "1585 Main St, Windsor, CO 80550",
+    "address": "2305 East 13th St, Loveland, CO 80537",
     "categories": [
+      "Burgers",
       "Fast Food",
-      "Burgers"
+      "Ice Cream & Frozen Yogurt"
     ]
   },
   {
@@ -7586,6 +7565,27 @@
     "categories": [
       "Fast Food",
       "Mexican"
+    ]
+  },
+  {
+    "name": "Wendy's",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m56na3TlLI4i7Y4jmvetqQ/o.jpg",
+    "rating": 1.0,
+    "address": "1519 W Eisenhower Blvd, Loveland, CO 80537",
+    "categories": [
+      "Fast Food",
+      "Burgers"
+    ]
+  },
+  {
+    "name": "McDonald's",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jLHKaUXXDiu4E1uEd_v6NQ/o.jpg",
+    "rating": 2.0,
+    "address": "1061 Main St, Windsor, CO 80550",
+    "categories": [
+      "Fast Food",
+      "Burgers",
+      "Coffee & Tea"
     ]
   },
   {
@@ -7639,6 +7639,15 @@
     ]
   },
   {
+    "name": "Little Caesars Pizza",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b1wcphdCtz3pYC-VB1snkQ/o.jpg",
+    "rating": 1.5,
+    "address": "1530 Main St, Ste D, Windsor, CO 80550",
+    "categories": [
+      "Pizza"
+    ]
+  },
+  {
     "name": "KFC",
     "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/35reabOuBpofEK399ks6Jg/o.jpg",
     "rating": 1.5,
@@ -7647,17 +7656,6 @@
       "Chicken Wings",
       "Fast Food",
       "Chicken Shop"
-    ]
-  },
-  {
-    "name": "Sonic Drive-In",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RJA2EhMg_txOwvzKW9RArw/o.jpg",
-    "rating": 1.5,
-    "address": "120 West 45th St, Loveland, CO 80538",
-    "categories": [
-      "Fast Food",
-      "Burgers",
-      "Ice Cream & Frozen Yogurt"
     ]
   },
   {
@@ -7671,12 +7669,14 @@
     ]
   },
   {
-    "name": "Little Caesars Pizza",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b1wcphdCtz3pYC-VB1snkQ/o.jpg",
+    "name": "Sonic Drive-In",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RJA2EhMg_txOwvzKW9RArw/o.jpg",
     "rating": 1.5,
-    "address": "1530 Main St, Ste D, Windsor, CO 80550",
+    "address": "120 West 45th St, Loveland, CO 80538",
     "categories": [
-      "Pizza"
+      "Fast Food",
+      "Burgers",
+      "Ice Cream & Frozen Yogurt"
     ]
   },
   {
@@ -7710,6 +7710,17 @@
     ]
   },
   {
+    "name": "KFC",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7miRcM4YDIsy47vishX6pw/o.jpg",
+    "rating": 1.5,
+    "address": "2991 N Garfield Ave, Loveland, CO 80538",
+    "categories": [
+      "Fast Food",
+      "Chicken Shop",
+      "Chicken Wings"
+    ]
+  },
+  {
     "name": "Peak 59",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S69Fdi-AOMGC3FaOKKWD6Q/o.jpg",
     "rating": 0.0,
@@ -7720,14 +7731,13 @@
     ]
   },
   {
-    "name": "KFC",
-    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7miRcM4YDIsy47vishX6pw/o.jpg",
-    "rating": 1.5,
-    "address": "2991 N Garfield Ave, Loveland, CO 80538",
+    "name": "Subway",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9MK933jXX_YazupulHwo_g/o.jpg",
+    "rating": 2.5,
+    "address": "1445 N Denver Ave, Loveland, CO 80538",
     "categories": [
-      "Fast Food",
-      "Chicken Shop",
-      "Chicken Wings"
+      "Sandwiches",
+      "Fast Food"
     ]
   },
   {
@@ -7742,33 +7752,12 @@
   },
   {
     "name": "Subway",
-    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9MK933jXX_YazupulHwo_g/o.jpg",
-    "rating": 2.5,
-    "address": "1445 N Denver Ave, Loveland, CO 80538",
-    "categories": [
-      "Sandwiches",
-      "Fast Food"
-    ]
-  },
-  {
-    "name": "Subway",
     "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1nMbKdNc77GnaGelkLMkBA/o.jpg",
     "rating": 2.5,
     "address": "1525 Main St, Ste B4, Windsor, CO 80550",
     "categories": [
       "Sandwiches",
       "Fast Food"
-    ]
-  },
-  {
-    "name": "KFC",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-qWj0IcnuTw1tLkCqrNpRQ/o.jpg",
-    "rating": 2.0,
-    "address": "1650 Foxtrail Dr, Loveland, CO 80538",
-    "categories": [
-      "Chicken Wings",
-      "Fast Food",
-      "Chicken Shop"
     ]
   },
   {
@@ -7780,6 +7769,17 @@
       "Food Delivery Services",
       "Fast Food",
       "Chicken Wings"
+    ]
+  },
+  {
+    "name": "KFC",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-qWj0IcnuTw1tLkCqrNpRQ/o.jpg",
+    "rating": 2.0,
+    "address": "1650 Foxtrail Dr, Loveland, CO 80538",
+    "categories": [
+      "Chicken Wings",
+      "Fast Food",
+      "Chicken Shop"
     ]
   },
   {
@@ -7815,16 +7815,6 @@
     ]
   },
   {
-    "name": "Subway",
-    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WACPRnzIkXy0251G0p5qTw/o.jpg",
-    "rating": 1.0,
-    "address": "7600 Westgate Dr, Fort Collins, CO 80528",
-    "categories": [
-      "Fast Food",
-      "Sandwiches"
-    ]
-  },
-  {
     "name": "Taco Bell",
     "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3bNFKRDD0vHZdMAzr5ntKg/o.jpg",
     "rating": 2.0,
@@ -7832,6 +7822,16 @@
     "categories": [
       "Fast Food",
       "Mexican"
+    ]
+  },
+  {
+    "name": "Subway",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WACPRnzIkXy0251G0p5qTw/o.jpg",
+    "rating": 1.0,
+    "address": "7600 Westgate Dr, Fort Collins, CO 80528",
+    "categories": [
+      "Fast Food",
+      "Sandwiches"
     ]
   },
   {
@@ -7943,21 +7943,21 @@
     ]
   },
   {
-    "name": "Little Caesar's Pizza",
-    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8kCwAgw7bhykRyIE6MARLg/o.jpg",
-    "rating": 2.0,
-    "address": "129 E 37th St, Loveland, CO 80538",
-    "categories": [
-      "Pizza"
-    ]
-  },
-  {
     "name": "Donatos Pizza",
     "image_url": "",
     "rating": 0.0,
     "address": "Loveland, CO 80538",
     "categories": [
       "Food Delivery Services",
+      "Pizza"
+    ]
+  },
+  {
+    "name": "Little Caesar's Pizza",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8kCwAgw7bhykRyIE6MARLg/o.jpg",
+    "rating": 2.0,
+    "address": "129 E 37th St, Loveland, CO 80538",
+    "categories": [
       "Pizza"
     ]
   },

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Food Entry</title>
+</head>
+<body>
+    <div id="food-details">
+        <button onclick="location.reload()">Try again</button>
+        <h2 id="food-name"></h2>
+        <img id="food-image" src="" alt="No Image" width="200">
+        <p><strong>Rating:</strong> <span id="food-rating"></span></p>
+        <p><strong>Address:</strong> <span id="food-address"></span></p>
+        <p><strong>Categories:</strong> <span id="food-categories"></span></p>
+    </div>
+
+    <script>
+        // Function to fetch and display a random food entry
+        function loadRandomFoodEntry() {
+            fetch('food.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Randomly select an entry from the JSON list
+                    const randomIndex = Math.floor(Math.random() * data.length);
+                    const randomFood = data[randomIndex];
+
+                    // Populate HTML elements with the selected entry's data
+                    document.getElementById('food-image').src = randomFood.image_url;
+                    document.getElementById('food-name').textContent = randomFood.name;
+                    document.getElementById('food-rating').textContent = randomFood.rating;
+                    document.getElementById('food-address').textContent = randomFood.address;
+                    document.getElementById('food-categories').textContent = randomFood.categories.join(', ');
+                })
+                .catch(error => console.error('Error fetching food data: ', error));
+        }
+
+        // Load a random food entry on page load
+        window.addEventListener('load', loadRandomFoodEntry);
+    </script>
+</body>
+</html>
